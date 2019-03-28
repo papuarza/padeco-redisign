@@ -1,0 +1,51 @@
+{
+  "HEADER": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "FOOTER": {
+    "firstColumn": {
+      "title": "Inicio",
+      "link1": "Beneficios",
+      "link2": "Servicios",
+      "link3": "Procesos",
+      "link4": "Proyectos",
+      "link5": "Contacto",
+      "link6": "Oficinas"
+    },
+    "secondColumn": {
+      "title": "Digital",
+      "link1": "Marketplaces",
+      "link2": "Amazon",
+      "link3": "ManoMano",
+      "link4": "Metodologías"
+    },
+    "thirdColumn": {
+      "title": "Tradicional",
+      "link1": "Canal",
+      "link2": "Costa Rica",
+      "link3": "Ecuador",
+      "link4": "Metodologías",
+      "link5": "Mercados"
+    },
+    "fourthColumn": {
+      "title": "Sobre Padeco",
+      "link1": "Proyectos",
+      "link2": "Sectores",
+      "link3": "Valores",
+      "link4": "Equipo"
+    },
+    "fifthColumn": {
+      "title": "Nosotros",
+      "link1": "Equipo",
+      "link2": "Contacto"
+    }
+  },
+  "OFFICE": {
+    "title": "¿Dónde puedes encontrarnos?",
+    "subtitle": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus."
+  }
+}

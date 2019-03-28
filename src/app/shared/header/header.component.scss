@@ -1,0 +1,24 @@
+header {
+  height: 95px;
+  display: flex;
+  align-items: center;
+  .header-wrapper {
+    max-width: 940px;
+    width: 940px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .nav-wrapper {
+    display: flex;
+    width: 658px;
+    justify-content: space-between;
+    a {
+      text-decoration: none;
+      font-weight: 300;
+      font-size: 26px;
+    }
+  }
+}
+
