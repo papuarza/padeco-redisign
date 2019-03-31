@@ -1,0 +1,40 @@
+@import '../../../styles/variables.scss';
+.oportunidad-wrapper {
+  .oportuniddad-content-wrapper {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 70px 0;
+    display: flex;
+    justify-content: space-between;
+    .text-oportunidad-wrapper {
+      width: 65%;
+      padding-right: 50px;
+      h3 {
+        font-size: 36px;
+        font-weight: 700px;
+        margin-bottom: 21px;
+      }
+      p {
+        font-size: 24px;
+        font-weight: 100;
+        margin-bottom: 40px;
+      }
+      a {
+        background-color: $primary-color;
+        padding: 13px 40px;
+        color: #fff;
+        font-weight: 100;
+        font-size: 21px;
+        text-decoration: none;
+      }
+    }
+    .image-oportunidad-wrapper {
+      img {
+        width: 250px;
+      }
+    }
+  }
+}
+  
+    
