@@ -47,5 +47,84 @@
   "OFFICE": {
     "title": "¿Dónde puedes encontrarnos?",
     "subtitle": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus."
+  },
+  "CONTACT": {
+    "title": "¿Trabajamos juntos?",
+    "description": "Si estás pensando que podemos colaborar juntos para lanzar o crecer un proyecto, no dudes en ponerte en contacto. Responderemos tan pronto como podamos!",
+    "button": "Contactar"
+  },
+  "HOME": {
+    "header": {
+      "titleOne": "Especialistas en",
+      "titleTwo": "crear",
+      "titleThree": "canales de venta",
+      "buttonOne": "Canal Digital",
+      "buttonTwo": "Canal Horeca"
+    },
+    "secondRow": {
+      "title": "Te ayudamos a crecer.",
+      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de canales de venta tanto offline como online,  logrando un crecimiento sostenido y rentable en éstos canales.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, a través de marketplaces digitales o bien abriendo nuevos mercaods internacionales al combinar tecnología y software con el mejor conocimiento de nuestro equipo.",
+      "item1": {
+        "title": "Creación de nuevos canales",
+        "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
+      },
+      "item2": {
+        "title": "Crecimiento en volumen de ventas",
+        "description": "Amplia experiencia en la gestión de cuentas y resolución de incidencias junto con una constante formación sobre Amazon."
+      },
+      "item3": {
+        "title": "Optimización de canales digitales",
+        "description": "Hacemos uso de los mejores software del mercado para el correcto."
+      },
+      "item4": {
+        "title": "Posicionamiento de productos",
+        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global"
+      }
+    },
+    "thirdRow": {
+      "title": "¿Cómo trabajamos?",
+      "description": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus.",
+      "item1": {
+        "title": "Análisis de Situación",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item2": {
+        "title": "Desarrollo de Estrategias",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item3": {
+        "title": "Planteamiento de Acciones",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item4": {
+        "title": "Implementación de Acciones",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item5": {
+        "title": "Medición de Resultados",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item6": {
+        "title": "Procesamiento del Feedback",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    },
+    "fourthRow": {
+      "title": "Servicios",
+      "description": "Buscamos generar impacto en los dos grandes canales disponibles, online y offline, con estrategias y plataformas disponibles para cada uno de ellos.",
+      "item1": {
+        "title": "Canal Offline",
+        "description1": "Desarrollamos y creamos nuevos mercados en asociación con nuestros clientes bajo un enfoque a éxito, buscando los mejores resultados de la forma más eficiente.",
+        "description2": "Ofrecemos al cliente acceder a nuevos mercados de la mano de expertos locales, de forma rápida, segura y eficiente, externalizando costes.",
+        "button": "Saber más"
+      },
+      "item2": {
+        "title": "Canal Online",
+        "description1": "Ofrecemos al cliente la posibilidad de crear, desarrollar y optimizar marketplaces online , mercados los cuales acceden millones de usuarios únicos cada mes.",
+        "description2": "Trabajamos en distintos plataformas, tales como Amazon y ManoMano, con amplia experiencia en todos ellos.",
+        "button": "Saber más"
+      }
+    }
   }
 }
