@@ -1,0 +1,257 @@
+.amazon-wrapper {
+  background-image: url('/assets/images/amazon-bg.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 220% 100%;
+  margin-top: -20px;
+  .amazon-content-wrapper {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    .amazon-header-text {
+      padding-top: 75px;
+      min-height: 90vh;
+      width: 40%;
+      display: flex;
+      flex-direction: column;
+      h2 {
+        font-size: 48px;
+        font-weight: 700;
+        margin-bottom: 50px;
+      }
+      p {
+        font-size: 21px;
+        font-weight: 100;
+        margin-bottom: 35px;
+      }
+    }
+  }
+}
+.servicios-amazon-wrapper {
+  background-color: rgba(243,243,243,.25);
+  .servicios-amazon-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    h3 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+    p {
+      font-size: 21px;
+      font-weight: 100;
+      margin-bottom: 50px;
+      text-align: center;
+    }
+    .servicios-items-wrapper {
+      display: flex;
+      flex-wrap: wrap;
+      .item-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 38px 38px 30px 38px;
+        background-color: #fff;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+        h5 {
+          font-size: 28px;
+          font-weight: 700;
+          margin-bottom: 0;
+          margin-top: 10px;
+        }
+        p {
+          font-size: 18px;
+          font-weight: 100;
+          text-align: left;
+          margin-left: 25px;
+          width: 85%;
+          margin-bottom: 0;
+        }
+      }
+      .item-medium {
+        width: 50%;
+        padding: 0 15px;
+      }
+      .item-small {
+        width: 33.333%;
+        padding: 0 15px;
+        margin-top: 30px;
+        .item-content {
+          flex-direction: column;
+          align-items: flex-start;
+          min-height: 425px;
+          h5 {
+            margin-bottom: 20px;
+          }
+          p {
+            margin-left: 0;
+            width: 100%;
+          }
+        }
+      }
+      .item-big {
+        width: 100%;
+        padding: 0 15px;
+        margin-top: 30px;
+        h5 {
+          margin-bottom: 20px;
+          margin-top: 0;
+          margin-left: 25px;
+        }
+      }
+    }
+  }
+}
+.amazon-oportunidad {
+  .amazon-oportunidad-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 90px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h3 {
+      font-size: 36px;
+      text-align: center;
+      font-weight: 700;
+      margin-bottom: 45px;
+      margin-top: -20px;
+    }
+    img {
+      text-align: center;
+    }
+    .oportunidad-columns {
+      display: flex;
+      .oportunidad-description {
+        width: 40%;
+        padding-right: 35px;
+        p {
+          font-size: 25px;
+          font-weight: 100;
+          margin-bottom: 25px;
+        }
+      }
+        .oportunidad-items {
+          display: flex;
+          flex-wrap: wrap;
+          padding-left: 0px;
+          width: 60%;
+          .item {
+            width: 50%;
+            padding-left: 35px;
+            margin-bottom: 50px;
+            h5 {
+              font-size: 24px;
+              font-weight: 700;
+              margin-bottom: 15px;
+            }
+            p {
+              font-size: 20px;
+              font-weight: 100;
+            }
+          }
+        }
+    }
+  }
+}
+.amazon-service-item {
+  width: 940px;
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  h3 {
+    font-size: 64px;
+    font-weight: 700;
+    margin-bottom: 22px;
+  }
+  ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+    width: 60%;
+    li {
+      list-style-type: none;
+      font-size: 18px;
+      font-weight: 100;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+  }
+  .description-wrapper {
+    display: flex;
+    width: 100%;
+    .text {
+      width: 50%;
+      h5 {
+        font-size: 24px;
+        font-weight: 700;
+        margin-bottom: 25px;
+      }
+      ul {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        li {
+        list-style-type: none;
+        margin-bottom: 15px;
+        font-size: 18px;
+        font-weight: 100;
+        display: flex;
+        align-items: flex-start;
+        text-align: left;
+        img {
+          margin-right: 25px;
+          width: 12px;
+          margin-top: 5px;
+        }
+      }
+    }
+    }
+    .image {
+      width: 50%;
+      display: flex;
+      align-items: center;
+      padding-left: 50px;
+    }
+  }
+  .ventajas-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    h5 {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 25px;
+    }
+    ul {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      flex-direction: row;
+      li {
+        padding: 8px 15px;
+        margin-right: 15px;
+        margin-bottom: 15px;
+        border-radius: 4px;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.04), 0 1px 5px 0 rgba(0, 0, 0, 0.02), 0 3px 1px -2px rgba(0, 0, 0, 0.02);
+      }
+    }
+  }
+}
+
+    
+    
+  
+  
+    

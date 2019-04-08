@@ -1,0 +1,107 @@
+@import '../../../styles/variables.scss';
+.contacto-wrapper {
+  .contacto-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding-top: 70px;
+    h2 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 24px;
+      font-weight: 100;
+      margin-bottom: 40px;
+    }
+  }
+}
+
+.form-wrapper {
+  .form-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 20px 0 70px 0;
+    display: flex;
+    form {
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      div {
+        position: relative;
+        margin-bottom: 25px;
+        input {
+          width: 100%;
+          border: 1px solid $primary-color;
+          border-radius: 4px;
+          line-height: 48px;
+          font-size: 22px;
+          font-weight: 700;
+          padding-left: 10px;
+          padding-top: 6px;
+        }
+        select {
+          width: 100%;
+          border: 1px solid $primary-color;
+          border-radius: 4px;
+          line-height: 48px;
+          height: 48px;
+          font-size: 18px;
+          font-weight: 700;
+          padding-left: 10px;
+          background-color: transparent;
+          padding-top: 6px;
+        }
+        textarea {
+          width: 100%;
+          border: 1px solid $primary-color;
+          border-radius: 4px;
+          line-height: 48px;
+          font-size: 18px;
+          font-weight: 700;
+          padding-left: 10px;
+          height: 200px;
+        }
+        label {
+          position: absolute;
+          background-color: #fff;
+          padding: 0px 10px;
+          left: 10px;
+          top: -8px;
+          line-height: 16px;
+          font-weight: 300;
+          font-size: 16px;
+        }
+      }
+      span {
+        font-size: 14px;
+        margin-top: 12px;
+        font-weight: 300;
+        input {
+          margin-right: 15px;
+          border: 1px solid $primary-color;
+        }
+      }
+      button {
+        background-color: $primary-color;
+        color: #fff;
+        font-size: 21px;
+        font-weight: 300;
+        padding: 12px 42px;
+        margin-top: 20px;
+      }
+    }
+    .image-wrapper {
+      display: flex;
+      width: 50%;
+      padding-top: 30px;
+      justify-content: flex-end;
+      align-items: flex-start;
+      img {
+        width: 75%;
+      }
+    }
+  }
+}

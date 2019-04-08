@@ -1,0 +1,106 @@
+@import '../../../styles/variables.scss';
+.digital-header-wrapper {
+  background-image: url('/assets/images/digital-main-bg.svg');
+  background-position: -20% 50%;
+  background-repeat: no-repeat;
+  .digital-header-content-wrapper {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    height: calc(100vh - 115px);
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    h2 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 50px;
+      margin-left: 50%;
+    }
+    p {
+      width: 50%;
+      font-size: 21px;
+      font-weight: 100;
+      margin-bottom: 25px;
+      margin-left: 50%;
+    }
+  }
+}
+.second-row-wrapper {
+  padding: 50px 0;
+  .second-row-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    overflow-y: hidden;
+    padding: 50px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    h4 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 17px;
+    }
+    p {
+      font-size: 21px;
+      font-weight: 100;
+      margin-bottom: 15px;
+      width: 60%;
+    }
+    a {
+      background-color: $primary-color;
+      color: #fff;
+      text-transform: uppercase;
+      padding: 15px 20px;
+      border-radius: 4px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    img {
+      position: absolute;
+      bottom: -30px;
+      right: 50px;
+    }
+  }
+}
+
+.third-row-wrapper {
+  padding: 50px 0;
+  .third-row-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    overflow-y: hidden;
+    padding: 50px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    h4 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 17px;
+      margin-left: 40%;
+    }
+    p {
+      font-size: 21px;
+      font-weight: 100;
+      margin-bottom: 15px;
+      width: 60%;
+      margin-left: 40%;
+    }
+    a {
+      background-color: $primary-color;
+      color: #fff;
+      text-transform: uppercase;
+      padding: 15px 20px;
+      border-radius: 4px;
+      margin-left: 40%;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    img {
+      position: absolute;
+      bottom: 0px;
+      left: 50px;
+    }
+  }
+}

@@ -1,0 +1,29 @@
+@import '../../../styles/variables.scss';
+.service-header-wrapper {
+  .service-header-content-wrapper {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    height: calc(100vh - 115px);
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    background-image: url('/assets/images/service-main-bg.svg');
+    background-position: 130% 50%;
+    background-repeat: no-repeat;
+    h2 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 50px;
+    }
+    p {
+      width: 50%;
+      font-size: 21px;
+      font-weight: 100;
+      margin-bottom: 25px;
+    }
+  }
+}
+
+
+

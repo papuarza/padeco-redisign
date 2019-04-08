@@ -1,0 +1,57 @@
+@import '../../../styles/variables.scss';
+.third-row-home {
+  .third-row-home-content {
+    width: 940px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 55px 0 56px 0;
+    display: flex;
+    flex-direction: column;
+    h3 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 30px;
+    }
+    p {
+      font-size: 21px;
+      font-weight: 100;
+    }
+    .items-wrapper {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px;
+      .item-content {
+        width: 33%;
+        text-align: center;
+        padding: 35px 60px;
+        border-right: 1px solid rgba(194, 194, 194, 0.3);
+        border-bottom: 1px solid rgba(194, 194, 194, 0.3); 
+        h5 {
+         font-weight: 700;
+         font-size: 21px; 
+         margin-bottom: 10px;
+        }
+        p {
+          font-size: 21px;
+          font-weight: 100;
+        }
+      }
+      .item-content:nth-child(3), .item-content:nth-child(6) {
+        border-right: 0;
+      }
+      .item-content:nth-child(4), .item-content:nth-child(5), .item-content:nth-child(6) {
+        border-bottom: 0;
+      }
+      .item-content:hover {
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+        background-color: $primary-color;
+        color: #fff;
+      }
+      .item-content:hover > h5, .item-content:hover > p  {
+        color: #fff;
+      }
+    }
+  }
+}

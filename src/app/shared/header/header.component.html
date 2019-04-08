@@ -1,11 +1,17 @@
 <header>
   <div class="header-wrapper">
     <div class="image-wrapper">
-      <img src="/assets/images/logo-black.svg" alt="">
+        <a [routerLink]="['/']"><img src="/assets/images/logo-black.svg" alt=""></a>
     </div>
     <div class="nav-wrapper">
       <a [routerLink]="['/']" routerLinkActive="router-link-active">{{ 'HEADER.home' | translate }}</a>
-      <a [routerLink]="['/servicios']">{{ 'HEADER.services' | translate }}</a>
+      <a [routerLink]="['/servicios']" class="double-level">
+        {{ 'HEADER.services' | translate }}
+        <div class="header-options" *ngIf="optionsHover">
+          <a>Canal Digital</a>
+          <a>Canal Tradicional</a>
+        </div>
+      </a>
       <a [routerLink]="['/proyectos']">{{ 'HEADER.projects' | translate }}</a>
       <a [routerLink]="['/sobre-nosotros']">{{ 'HEADER.about' | translate }}</a>
       <a [routerLink]="['/contacto']">{{ 'HEADER.contact' | translate }}</a>

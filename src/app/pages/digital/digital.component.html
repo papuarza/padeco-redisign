@@ -1,3 +1,28 @@
-<p>
-  digital works!
-</p>
+<div class="digital-header-wrapper">
+  <div class="digital-header-content-wrapper">
+    <h2>{{ 'DIGITAL.header.title' | translate }}</h2>
+    <p>{{ 'DIGITAL.header.description1' | translate }}</p>
+    <p>{{ 'DIGITAL.header.description2' | translate }}</p>
+  </div>
+</div>
+<div class="second-row-wrapper">
+  <div class="second-row-content">
+    <h4>{{ 'DIGITAL.secondRow.title' | translate }}</h4>
+    <p>{{ 'DIGITAL.secondRow.description1' | translate }}</p>
+    <p style="margin-bottom: 50px">{{ 'DIGITAL.secondRow.description2' | translate }}</p>
+    <a [routerLink]="['/amazon']">{{ 'DIGITAL.secondRow.button' | translate }}</a>
+    <img src="assets/images/digital-amazon.svg" alt="">
+  </div>
+</div>
+<div class="third-row-wrapper">
+    <div class="third-row-content">
+      <h4>{{ 'DIGITAL.thirdRow.title' | translate }}</h4>
+      <p>{{ 'DIGITAL.thirdRow.description1' | translate }}</p>
+      <p style="margin-bottom: 50px">{{ 'DIGITAL.thirdRow.description2' | translate }}</p>
+      <a [routerLink]="['/manomano']">{{ 'DIGITAL.thirdRow.button' | translate }}</a>
+      <img src="assets/images/digital-manomano.svg" alt="">
+    </div>
+  </div>
+<app-como-trabajamos></app-como-trabajamos>
+<app-oportunidad></app-oportunidad>
+<app-oficinas></app-oficinas>

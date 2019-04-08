@@ -22,6 +22,9 @@ import { SobreNosotrosComponent } from './pages/sobre-nosotros/sobre-nosotros.co
 import { EcuadorComponent } from './pages/ecuador/ecuador.component';
 import { CostaRicaComponent } from './pages/costa-rica/costa-rica.component';
 import { ProyectosComponent } from './pages/proyectos/proyectos.component';
+import { ComoTrabajamosComponent } from './shared/como-trabajamos/como-trabajamos.component';
+import { OportunidadBlackComponent } from './shared/oportunidad-black/oportunidad-black.component';
+import { ServiciosRowComponent } from './shared/servicios-row/servicios-row.component';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/translations/', '.json');
@@ -45,7 +48,10 @@ export function createTranslateLoader(http: HttpClient) {
     SobreNosotrosComponent,
     EcuadorComponent,
     CostaRicaComponent,
-    ProyectosComponent
+    ProyectosComponent,
+    ComoTrabajamosComponent,
+    OportunidadBlackComponent,
+    ServiciosRowComponent
   ],
   imports: [
     BrowserModule,

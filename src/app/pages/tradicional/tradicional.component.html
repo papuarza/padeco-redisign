@@ -1,3 +1,59 @@
-<p>
-  tradicional works!
-</p>
+<div class="tradicional-header-wrapper">
+  <div class="tradicional-header-content-wrapper">
+    <h2>{{ 'TRADICIONAL.header.title' | translate }}</h2>
+    <p>{{ 'TRADICIONAL.header.description1' | translate }}</p>
+    <p>{{ 'TRADICIONAL.header.description2' | translate }}</p>
+  </div>
+</div>
+<div class="second-row-home">
+  <div class="second-row-home-content">
+    <div class="right-container">
+      <div class="home-item">
+        <img src="assets/images/home-second-row-item1.svg" alt="">
+        <h5>{{ 'TRADICIONAL.secondRow.item1.title' | translate }}</h5>
+        <p>{{ 'TRADICIONAL.secondRow.item1.description' | translate }}</p>
+      </div>
+      <div class="home-item">
+        <img src="assets/images/home-second-row-item2.svg" alt="">
+        <h5>{{ 'TRADICIONAL.secondRow.item2.title' | translate }}</h5>
+        <p>{{ 'TRADICIONAL.secondRow.item2.description' | translate }}</p>
+      </div>
+      <div class="home-item">
+        <img src="assets/images/home-second-row-item3.svg" alt="">
+        <h5>{{ 'TRADICIONAL.secondRow.item3.title' | translate }}</h5>
+        <p>{{ 'TRADICIONAL.secondRow.item3.description' | translate }}</p>
+      </div>
+      <div class="home-item">
+        <img src="assets/images/home-second-row-item4.svg" alt="">
+        <h5>{{ 'TRADICIONAL.secondRow.item4.title' | translate }}</h5>
+        <p>{{ 'TRADICIONAL.secondRow.item4.description' | translate }}</p>
+      </div>
+    </div>
+    <div class="left-container">
+      <h2>{{ 'TRADICIONAL.secondRow.title' | translate }}</h2>
+      <p>{{ 'TRADICIONAL.secondRow.description1' | translate }}</p>
+      <p>{{ 'TRADICIONAL.secondRow.description2' | translate }}</p>
+    </div>
+  </div>
+</div>
+<div class="third-row-wrapper">
+    <div class="third-row-content">
+      <h4>{{ 'TRADICIONAL.thirdRow.title' | translate }}</h4>
+      <p>{{ 'TRADICIONAL.thirdRow.description1' | translate }}</p>
+      <p style="margin-bottom: 50px">{{ 'TRADICIONAL.thirdRow.description2' | translate }}</p>
+      <a [routerLink]="['/ecuador']">{{ 'TRADICIONAL.thirdRow.button' | translate }}</a>
+      <img src="assets/images/ecuador.svg" alt="">
+    </div>
+  </div>
+  <div class="fourth-row-wrapper">
+    <div class="fourth-row-content">
+      <h4>{{ 'TRADICIONAL.fourthRow.title' | translate }}</h4>
+      <p>{{ 'TRADICIONAL.fourthRow.description1' | translate }}</p>
+      <p style="margin-bottom: 50px">{{ 'TRADICIONAL.fourthRow.description2' | translate }}</p>
+      <a [routerLink]="['/costa-rica']">{{ 'TRADICIONAL.fourthRow.button' | translate }}</a>
+      <img src="assets/images/costa-rica.svg" alt="">
+    </div>
+  </div>
+<app-como-trabajamos></app-como-trabajamos>
+<app-oportunidad></app-oportunidad>
+<app-oficinas></app-oficinas>

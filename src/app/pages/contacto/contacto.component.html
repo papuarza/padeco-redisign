@@ -1,3 +1,103 @@
-<p>
-  contacto works!
-</p>
+<div class="contacto-wrapper">
+  <div class="contacto-content">
+    <h2>{{ 'CONTACTO.title' | translate }}</h2>
+    <p>{{ 'CONTACTO.description' | translate }}</p>
+  </div>
+</div>
+<div class="form-wrapper">
+  <div class="form-content">
+    <form>
+      <div>
+        <input type="text">
+        <label for="">{{ 'CONTACTO.input1' | translate }}</label>
+      </div>
+      <div>
+        <input type="text">
+        <label for="">{{ 'CONTACTO.input2' | translate }}</label>
+      </div>
+      <div>
+        <input type="text">
+        <label for="">{{ 'CONTACTO.input3' | translate }}</label>
+      </div>
+      <div>
+        <input type="text">
+        <label for="">{{ 'CONTACTO.input5' | translate }}</label>
+      </div>
+      <div>
+          <select name="" id="">
+            <option value="">{{ 'CONTACTO.input12.option1' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input12.option2' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input12.option3' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input12.option4' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input12.option5' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input12.option6' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input12.option7' | translate }}</option>
+          </select>
+          <label for="">{{ 'CONTACTO.input12.title' | translate }}</label>
+        </div>
+      <div>
+        <select name="" id="">
+          <option value="">{{ 'CONTACTO.input4.option1' | translate }}</option>
+          <option value="">{{ 'CONTACTO.input4.option2' | translate }}</option>
+        </select>
+        <label for="">{{ 'CONTACTO.input4.title' | translate }}</label>
+      </div>
+      <div>
+          <select name="" id="">
+            <option value="">{{ 'CONTACTO.input7.option1' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input7.option2' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input7.option3' | translate }}</option>
+            <option value="">{{ 'CONTACTO.input7.option4' | translate }}</option>
+          </select>
+          <label for="">{{ 'CONTACTO.input7.title' | translate }}</label>
+        </div>
+        <div>
+            <select name="" id="">
+              <option value="">{{ 'CONTACTO.input8.option1' | translate }}</option>
+              <option value="">{{ 'CONTACTO.input8.option2' | translate }}</option>
+            </select>
+            <label for="">{{ 'CONTACTO.input8.title' | translate }}</label>
+          </div>
+          <div>
+              <select name="" id="">
+                <option value="">{{ 'CONTACTO.input9.option1' | translate }}</option>
+                <option value="">{{ 'CONTACTO.input9.option2' | translate }}</option>
+                <option value="">{{ 'CONTACTO.input9.option3' | translate }}</option>
+              </select>
+              <label for="">{{ 'CONTACTO.input9.title' | translate }}</label>
+            </div>
+            <div>
+                <select name="" id="">
+                  <option value="">{{ 'CONTACTO.input10.option1' | translate }}</option>
+                  <option value="">{{ 'CONTACTO.input10.option2' | translate }}</option>
+                  <option value="">{{ 'CONTACTO.input10.option3' | translate }}</option>
+                </select>
+                <label for="">{{ 'CONTACTO.input10.title' | translate }}</label>
+              </div>
+              <div>
+                  <select name="" id="">
+                    <option value="">{{ 'CONTACTO.input13.option1' | translate }}</option>
+                    <option value="">{{ 'CONTACTO.input13.option2' | translate }}</option>
+                    <option value="">{{ 'CONTACTO.input13.option3' | translate }}</option>
+                    <option value="">{{ 'CONTACTO.input13.option4' | translate }}</option>
+                    <option value="">{{ 'CONTACTO.input13.option5' | translate }}</option>
+                    <option value="">{{ 'CONTACTO.input13.option6' | translate }}</option>
+                    <option value="">{{ 'CONTACTO.input13.option7' | translate }}</option>
+                  </select>
+                  <label for="">{{ 'CONTACTO.input13.title' | translate }}</label>
+                </div>
+        
+      <div>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+        <label for="">{{ 'CONTACTO.input6' | translate }}</label>
+      </div>
+      <span><input type="checkbox" name=""
+          id="">{{ 'CONTACTO.message' | translate }}<a>{{ 'CONTACTO.messageLink' | translate }}</a></span>
+      <button>{{ 'CONTACTO.button' | translate }}</button>
+    </form>
+    <div class="image-wrapper">
+      <img src="/assets/images/contact-main-image.svg" alt="">
+    </div>
+  </div>
+</div>
+<app-oficinas></app-oficinas>
