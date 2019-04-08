@@ -1,0 +1,847 @@
+{
+  "HEADER": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "FOOTER": {
+    "firstColumn": {
+      "title": "Inicio",
+      "link1": "Beneficios",
+      "link2": "Servicios",
+      "link3": "Procesos",
+      "link4": "Proyectos",
+      "link5": "Contacto",
+      "link6": "Oficinas"
+    },
+    "secondColumn": {
+      "title": "Online",
+      "link1": "Marketplaces",
+      "link2": "Amazon",
+      "link3": "ManoMano",
+      "link4": "Metodologías"
+    },
+    "thirdColumn": {
+      "title": "Offline",
+      "link1": "Canal",
+      "link2": "Costa Rica",
+      "link3": "Ecuador",
+      "link4": "Metodologías",
+      "link5": "Mercados"
+    },
+    "fourthColumn": {
+      "title": "Sobre Padeco",
+      "link1": "Proyectos",
+      "link2": "Sectores",
+      "link3": "Valores",
+      "link4": "Equipo"
+    },
+    "fifthColumn": {
+      "title": "Nosotros",
+      "link1": "Equipo",
+      "link2": "Contacto"
+    }
+  },
+  "OPORTUNIDAD": {
+    "title": "¡La oprtunidad es ahora!",
+    "subtitle": "Haz crecer tu negocio, con el crecimiento de tu marca y canales de ventas.",
+    "button": "Contactar"
+  },
+  "OFFICE": {
+    "title": "¿Dónde puedes encontrarnos?",
+    "subtitle": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus."
+  },
+  "CONTACT": {
+    "title": "¿Hablamos?",
+    "description": "Si estás pensando que podemos colaborar juntos para lanzar o crecer un proyecto, no dudes en ponerte en contacto. Responderemos tan pronto como podamos!",
+    "button": "Contactar"
+  },
+  "HOME": {
+    "header": {
+      "titleOne": "Especialistas en",
+      "titleTwo": "crear",
+      "titleThree": "canales de venta",
+      "buttonOne": "Canal Online",
+      "buttonTwo": "Canal Offline"
+    },
+    "secondRow": {
+      "title": "Te ayudamos a crecer.",
+      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de canales de venta tanto offline como online,  logrando un crecimiento sostenido y rentable en éstos canales.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, a través de marketplaces digitales o bien abriendo nuevos mercaods internacionales al combinar tecnología y software con el mejor conocimiento de nuestro equipo.",
+      "item1": {
+        "title": "Creación de nuevos canales",
+        "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
+      },
+      "item2": {
+        "title": "Crecimiento en volumen de ventas",
+        "description": "Amplia experiencia en la gestión de cuentas y resolución de incidencias junto con una constante formación sobre Amazon."
+      },
+      "item3": {
+        "title": "Optimización de canales digitales",
+        "description": "Hacemos uso de los mejores software del mercado para el correcto."
+      },
+      "item4": {
+        "title": "Posicionamiento de productos",
+        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global"
+      }
+    },
+    "thirdRow": {
+      "title": "¿Cómo trabajamos?",
+      "description": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus.",
+      "item1": {
+        "title": "Análisis de Situación",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item2": {
+        "title": "Desarrollo de Estrategias",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item3": {
+        "title": "Planteamiento de Acciones",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item4": {
+        "title": "Implementación de Acciones",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item5": {
+        "title": "Medición de Resultados",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item6": {
+        "title": "Procesamiento del Feedback",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    },
+    "fourthRow": {
+      "title": "Servicios",
+      "description": "Buscamos generar impacto en los dos grandes canales disponibles, online y offline, con estrategias y plataformas disponibles para cada uno de ellos.",
+      "item1": {
+        "title": "Canal Offline",
+        "description1": "Desarrollamos y creamos nuevos mercados en asociación con nuestros clientes bajo un enfoque a éxito, buscando los mejores resultados de la forma más eficiente.",
+        "description2": "Ofrecemos al cliente acceder a nuevos mercados de la mano de expertos locales, de forma rápida, segura y eficiente, externalizando costes.",
+        "button": "Saber más"
+      },
+      "item2": {
+        "title": "Canal Online",
+        "description1": "Ofrecemos al cliente la posibilidad de crear, desarrollar y optimizar marketplaces online , mercados los cuales acceden millones de usuarios únicos cada mes.",
+        "description2": "Trabajamos en distintos plataformas, tales como Amazon y ManoMano, con amplia experiencia en todos ellos.",
+        "button": "Saber más"
+      }
+    },
+    "fifthRow": {
+      "title": "Proyectos",
+      "description": "Tanto grandes empresas como startups confían en nuestros servicios. Gestionamos más de 50 proyectos de compañías distintas, brindando un servicio personalizado que se ajusta a los requerimientos de cada una de ellas, buscando siempre el mayor beneficio. Mirá algunos casos de éxito de nuestros proyectos."
+    }
+  },
+  "SERVICIOS": {
+    "header": {
+      "title": "Nuestros Servicios",
+      "description1": "Somos una consultora internacional dedicada tanto al canal digital como offline, con proyectos de pequeñas, medianas y grandes empresas.",
+      "description2": "En canales digitales centramos nuestros esfuerzos en la gestión de Marketplaces (Amazon y ManoMano), con profesionales que cuentan con años de experiencia en el sector.",
+      "description3": "En el canal offline, trabajamos en la apertura de nuevos mercados a nivel internacional, con expertos locales en cada uno de éstos mercados, y con el know-how de profesionales expertos en el sector."
+    }
+  },
+  "DIGITAL": {
+    "header": {
+      "title": "Canal Online",
+      "description1": "La forma de comprar ha cambiado. En la actualidad, las personas buscan inmediatez al momento de adquirir nuevos productos y servicios. Los marketplaces se han convertido en uno de los canales principales de compra a nivel digital, algomerando una gran cantidad de categorías y productos.",
+      "description2": "De la misma forma los clientes se han vuelto más exigentes. Quieren una experiencia online que se ajuste a sus necesidades. y las empresas que sepan posicionarse en estos mercados marcarán grandes diferencias."
+    },
+    "secondRow": {
+      "title": "Amazon",
+      "description1": "Es la plataforma más grande de venta online a nivel global a la cuál acceden entre 8-10 millones de usuarios únicos al mes solo en España.",
+      "description2": "Tanto a través del uso de su plataforma con Seller Central, siendo proveedor de Amazon con Vendor Central o utilizando una estrategia conjunta, podrá impulsar sus ventas, sin descuidar su marca ni su política de precios.",
+      "button": "Ver más"
+    },
+    "thirdRow": {
+      "title": "ManoMano",
+      "description1": "Marketplace especializado en bricolaje y jardinería que busca llegar a los fans del bricolaje y el DIY. Presente en España desde junio de 2015, cuenta ya con más de 70.000 clientes, más de 250.000 referencias en catálogo y más de 5 millones de euros de facturación.",
+      "description2": "A nivel internacional, cuenta con más 850.000 clientes, 1 millón de referencias y una facturación mayor a los 90 millones de euros. Esta presente en Francia, Bélgica, Gran Bretaña, Italia, Alemania y España.",
+      "button": "Ver más"
+    }
+  },
+  "TRADICIONAL": {
+    "header": {
+      "title": "Canal Offline",
+      "description1": "Contamos con un equipo multidisciplinar que ha estudiado en prestigiosas escuelas de negocios y que han trabajado en sectores tan variados como FMCG, auditoras y bancos, y empresas de tecnología y electrónica, aportandonos experiencia en áreas de alimentación, trade marketing con retailers, finanzas y comercio internacional.",
+      "description2": "Nuestros equipos locales tienen experiencia igualmente en el comercio y distribución de diversos productos, conocen perfectamente los canales, actores principales y forma de desarrollarlos, siendo los partner ideales para empresas que buscan el crecimiento en estos mercados."
+    },
+    "secondRow": {
+      "title": "Nuevas Oportunidades",
+      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de canales de venta tanto offline como online,  logrando un crecimiento sostenido y rentable en éstos canales.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, a través de marketplaces digitales o bien abriendo nuevos mercaods internacionales al combinar tecnología y software con el mejor conocimiento de nuestro equipo.",
+      "item1": {
+        "title": "Expansión Internacional",
+        "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
+      },
+      "item2": {
+        "title": "Expertos locales en cada mercado",
+        "description": "Nos asociamos a expertos locales, que conocen el país, consiguiendo ahorro de recursos y tiempo en materias de trámites de exportación, legales y burocráticos."
+      },
+      "item3": {
+        "title": "Análisis y formación sobre mercados",
+        "description": "Hacemos uso de los mejores software del mercado para el correcto."
+      },
+      "item4": {
+        "title": "Posicionamiento de productos",
+        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global."
+      }
+    },
+    "thirdRow": {
+      "title": "Ecuador",
+      "description1": "Es una de las economías más dinámicas de la región, con reglas y leyes claras sobre las inversiones privadas además de proveer diversos incentivos a los mismos.",
+      "description2": "Su ubicación privilegiada e infraestructura entre las mejores de latinoamérica permiten ofrecer grandes beneficios como tarifas eléctricas muy competitivas para el sector productivo, y un sofisticado acceso a redes de telecomunicaciones.",
+      "button": "Ver más"
+    },
+    "fourthRow": {
+      "title": "Costa Rica",
+      "description1": "El excelente clima de negocios basado en una reconocida tradición de democracia, estabilidad económica y política además de una fuerza laboral joven, talentosa y bilingüe hacen de Costa Rica uno de los países más atractivos de la región.",
+      "description2": "El país ofrece diversas ayudas e incentivos a los inversores con una sólida infraestructura obteniendo más del 90% de la producción energética de fuentes renovables.",
+      "button": "Ver más"
+    }
+  },
+  "ECUADOR": {
+    "header": {
+      "title": "Ecuador",
+      "description1": "Con  una de las economías más dinámicas de la región, Ecuador se convierte en uno de los países más atractivos como destino de exportación dentro de América Latina.",
+      "description2": "Cuenta con una política muy estable, leyes claras sobre las inversiones privadas e incentivos a los mismos.",
+      "description3": "Padeco Global cuenta con expertos locales con amplia experiencia en el mercado local, que permiten unos procesos ágiles al momento de desarrollar una nueva línea de negocio en este mercado."
+    },
+    "secondRow": {
+      "title": "¿Por qué Ecuador?",
+      "description": "Somos su fuerza de venta especializada en mercados internacionales donde usted no llega. Permitimos adquirir una ventaja competitiva en el desarrollo de nuevos mercados.",
+      "listItem1": "Territorio extenso, con mercado menos maduro que los grandes de la región",
+      "listItem2": "Acuerdo de libre comercio con la Unión Europea",
+      "listItem3": "Poca burocracia y trámites sencillos para acceder al mercado",
+      "listItem4": "Seguridad jurídica y política muy por encima de la media de la región.",
+      "listItem5": "Mercados no prioritarios para los grandes jugadores de los sectores.",
+      "listItem6": "Buenas conexciones marítimas y excelentes infraestructuras portuarias.",
+      "listItem7": "Prestigio y buena percepción de productos “Made in Spain”.",
+      "listItem8": "Multitud de lazos culturales entre el país y España",
+      "listItem9": "Disponibilidad de nichos de mercados no aprovechados para explotarlos."
+    },
+    "thirdRow": {
+      "title": "¿Por qué trabajar con Padeco Global?",
+      "description": "Somos su fuerza de venta especializada en mercados internacionales donde usted no llega. Permitimos adquirir una ventaja competitiva en el desarrollo de nuevos mercados.",
+      "item1": {
+        "title": "Enfoque a éxito",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      },
+      "item2": {
+        "title": "Expertos locales",
+        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
+        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+      },
+      "item3": {
+        "title": "Red de contactos",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      },
+      "item4": {
+        "title": "Metodologías de trabajo",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      },
+      "item5": {
+        "title": "Estrategias personalizadas",
+        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
+        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+      },
+      "item6": {
+        "title": "Penetración de mercado",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      }
+    }
+  },
+  "COSTARICA": {
+    "header": {
+      "title": "Costa Rica",
+      "description1": "Con  una de las economías más dinámicas de la región, Ecuador se convierte en uno de los países más atractivos como destino de exportación dentro de América Latina.",
+      "description2": "Cuenta con una política muy estable, leyes claras sobre las inversiones privadas e incentivos a los mismos.",
+      "description3": "Padeco Global cuenta con expertos locales con amplia experiencia en el mercado local, que permiten unos procesos ágiles al momento de desarrollar una nueva línea de negocio en este mercado."
+    },
+    "secondRow": {
+      "title": "¿Por qué Costa Rica?",
+      "description": "Somos su fuerza de venta especializada en mercados internacionales donde usted no llega. Permitimos adquirir una ventaja competitiva en el desarrollo de nuevos mercados.",
+      "listItem1": "Territorio extenso, con mercado menos maduro que los grandes de la región",
+      "listItem2": "Acuerdo de libre comercio con la Unión Europea",
+      "listItem3": "Poca burocracia y trámites sencillos para acceder al mercado",
+      "listItem4": "Seguridad jurídica y política muy por encima de la media de la región.",
+      "listItem5": "Mercados no prioritarios para los grandes jugadores de los sectores.",
+      "listItem6": "Buenas conexciones marítimas y excelentes infraestructuras portuarias.",
+      "listItem7": "Prestigio y buena percepción de productos “Made in Spain”.",
+      "listItem8": "Multitud de lazos culturales entre el país y España",
+      "listItem9": "Disponibilidad de nichos de mercados no aprovechados para explotarlos."
+    },
+    "thirdRow": {
+      "title": "¿Por qué trabajar con Padeco Global?",
+      "description": "Somos su fuerza de venta especializada en mercados internacionales donde usted no llega. Permitimos adquirir una ventaja competitiva en el desarrollo de nuevos mercados.",
+      "item1": {
+        "title": "Enfoque a éxito",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      },
+      "item2": {
+        "title": "Expertos locales",
+        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
+        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+      },
+      "item3": {
+        "title": "Red de contactos",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      },
+      "item4": {
+        "title": "Metodologías de trabajo",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      },
+      "item5": {
+        "title": "Estrategias personalizadas",
+        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
+        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+      },
+      "item6": {
+        "title": "Penetración de mercado",
+        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
+        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+      }
+    }
+  },
+  "AMAZON": {
+    "header": {
+      "title": "Amazon",
+      "description1": "Es la plataforma más grande de venta online a nivel global a la cuál acceden entre 8-10 millones de usuarios únicos al mes solo en España.",
+      "description2": "Tanto a través del uso de su plataforma con Seller Central, siendo proveedor de Amazon con Vendor Central o utilizando una estrategia conjunta, podrá impulsar sus ventas, sin descuidar su marca ni su política de precios."
+    },
+    "servicios": {
+      "title": "Servicios en Amazon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod.",
+      "item1": {
+        "title": "Consultoría",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item2": {
+        "title": "Contenidos",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item3": {
+        "title": "Marketing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item4": {
+        "title": "Publicidad",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item5": {
+        "title": "Analítica",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item6": {
+        "title": "Formación equipos especializados",
+        "description": "Tenemos mucha experiencia en formación a empresas que quieren crear y formar departamentos internos para potenciar sus ventas en Amazon. Cada día más empresas tienen la necesidad específica de formar a sus equipos en algo tan cambiante y complicado como es Amazon. Somos totalmente flexibles y nos adaptamos a todo tipo de organizaciones, desde grandes corporaciones internacionales hasta empresas más pequeñas con otras necesidades."
+      }
+    },
+    "oportunidad": {
+      "title": "La oportunidad es ahora. Crezcamos juntos.",
+      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de Amazon Vendor Central y Seller Central para generar un crecimiento sostenible en estos canales.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, en Amazon, de forma sostenible al combinar tecnología y software con el mejor conocimiento de la plataforma",
+      "item1": {
+        "title": "Servicio Completo",
+        "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
+      },
+      "item2": {
+        "title": "Experiencia",
+        "description": "Amplia experiencia en la gestión de cuentas y resolución de incidencias junto con una constante formación sobre Amazon."
+      },
+      "item3": {
+        "title": "Tecnología",
+        "description": "Hacemos uso de los mejores software del mercado para el correcto desarrollo de las ventas de nuestros clientes."
+      },
+      "item4": {
+        "title": "Internacionalización",
+        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global."
+      }
+    },
+    "serviciosDescr": {
+      "item1": {
+        "title": "Consultoria",
+        "description1": "Asesoramiento y Ayuda continua en Amazon",
+        "description2": "Estrategia y Planificación del catálogo de productos.",
+        "description3": "Gestión de Contenidos, Publicidad y Promociones.",
+        "description4": "Auditoría de productos e informes de situación.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item2": {
+        "title": "Publicidad",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Mejoramos el rendimiento de tus productos en Amazon.",
+          "item2": "Lanzamiento de nuevos productos.",
+          "item3": "Actualización de productos.",
+          "item4": "Descripciones, título y especificaciones.",
+          "item5": "Fotografía mejorada.",
+          "item6": "Gestión de Keywords.",
+          "item7": "A+ Content.",
+          "item8": "Pricing."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item3": {
+        "title": "Marketing",
+        "description1": "Gestión y Optimización de Acciones de Marketing en Amazon",
+        "description2": "Activación de palancas de Marketing en Amazon de manera coherente y coordinada. ",
+        "description3": "Plan de Marketing en Amazon.",
+        "description4": "Activación de nuevos productos, mejora continua del posicionamiento (SEO), rating, ranking y obtención de la Buy Box.",
+        "description5": "Ejecución de acciones tácticas, promociones, ofertas flash, eventos, Black Friday, Prime Day, packaging, Buy Box.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Optimización de Assets (SEO)",
+          "item2": "Acciones tácticas de lanzamiento y estacionales.",
+          "item3": "Promociones flash, BOGO, descuentos, ofertas, cupones, etc.",
+          "item4": "Eventos especiales de Amazon como Black Friday o Prime Day.",
+          "item5": "Reviews y Q&As y Programa Vine.",
+          "item6": "Packaging, packs virtuales, packs por volumen, retractilados, bundles."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item4": {
+        "title": "Contenidos",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item5": {
+        "title": "Analítica",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item6": {
+        "title": "Formación",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      }
+    }
+  },
+  "NOSOTROS": {
+    "header": {
+      "title": "Somos expertos en canales de venta",
+      "description1": "Somos una consultora internacional dedicada tanto al canal digital como offline, con proyectos de pequeñas, medianas y grandes empresas. ",
+      "description2": "En canales digitales centramos nuestros esfuerzos en la gestión de Marketplaces (Amazon y ManoMano), con profesionales que cuentan con años de experiencia en el sector.",
+      "description3": "En el canal offline, trabajamos en la apertura de nuevos mercados a nivel internacional, con expertos locales en cada uno de éstos mercados, y con el know-how de profesionales expertos en el sector."
+    },
+    "secondRow": {
+      "title": "¿Por qué elegirnos?",
+      "description1": "Padeco Global  cuenta con una amplia experiencia en el sector, trabajando con grandes empresas multinacionales en cada uno de los canales de ventas.",
+      "description2": "Entendemos que cada proyecto es totalmente diferente a otro, por lo que nuestro equipo multidisciplinario está preparado para ajustarse a cada uno de ellos.",
+      "description3": "A partir de las necesidades de cada proyecto, planteamos la estrategia, la ejecutamos según un plan que se ajusten a los objetivos, y estamos constantemente retroalimentando dicho plan para ajustarlo al máximo y obtener los mejores resultados.",
+      "item1": {
+        "title": "Orientados a resultados",
+        "description": "Las empresas buscan resultados, y acompañamos ese sentimiento planteando proyectos enfocados 100% a resultados."
+      },
+      "item2": {
+        "title": "Equipo y Tecnología",
+        "description": "Nuestro equipo está especializado en cada uno de los canales, y en constante ciclos de formación, de forma a ajustarse a los últimos avances tecnológicos."
+      },
+      "item3": {
+        "title": "Metodología de Trabajo",
+        "description": "Nuestro día a día está marcado por metodologías de trabajo modernas, en las cuáles buscamos alcanzar la mayor productividad, además de probar constantemente nuevos formas de trabajo que nos ayuden a mejorar."
+      },
+      "item4": {
+        "title": "Flexibilidad de Procesos",
+        "description": "Ajustamos nuestros procesos a lo que los clientes buscan. Sabemos que cada equipo tiene sus metodologías de trabajo, y la flexibilidad de nuestro equipo hace que nos adaptemos a cada una de ellas."
+      }
+    }
+  },
+  "MANOMANO": {
+    "header": {
+      "title": "ManoMano",
+      "description1": "Es un marketplace especializado en bricolaje y jardinería que busca llegar a los fans del bricolaje y el DIY. Presente en España desde junio de 2015, cuenta ya con más de 70.000 clientes, más de 250.000 referencias en catálogo y más de 5 millones de euros de facturación ",
+      "description2": "A nivel internacional, desde su creación en 2013 como monEchelle, cuenta ya con más 850.000 clientes, 1 millón de referencias y una facturación mayor a los 90 millones de euros. Esta presente en Francia, Bélgica, Gran Bretaña, Italia, Alemania y España."
+    },
+    "servicios": {
+      "title": "Servicios en ManoMano",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod.",
+      "item1": {
+        "title": "Consultoría",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item2": {
+        "title": "Contenidos",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item3": {
+        "title": "Marketing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item4": {
+        "title": "Publicidad",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item5": {
+        "title": "Analítica",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
+      },
+      "item6": {
+        "title": "Formación equipos especializados",
+        "description": "Tenemos mucha experiencia en formación a empresas que quieren crear y formar departamentos internos para potenciar sus ventas en Amazon. Cada día más empresas tienen la necesidad específica de formar a sus equipos en algo tan cambiante y complicado como es Amazon. Somos totalmente flexibles y nos adaptamos a todo tipo de organizaciones, desde grandes corporaciones internacionales hasta empresas más pequeñas con otras necesidades."
+      }
+    },
+    "oportunidad": {
+      "title": "La oportunidad es ahora. Crezcamos juntos.",
+      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de Amazon Vendor Central y Seller Central para generar un crecimiento sostenible en estos canales.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, en Amazon, de forma sostenible al combinar tecnología y software con el mejor conocimiento de la plataforma",
+      "item1": {
+        "title": "Servicio Completo",
+        "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
+      },
+      "item2": {
+        "title": "Experiencia",
+        "description": "Amplia experiencia en la gestión de cuentas y resolución de incidencias junto con una constante formación sobre Amazon."
+      },
+      "item3": {
+        "title": "Tecnología",
+        "description": "Hacemos uso de los mejores software del mercado para el correcto desarrollo de las ventas de nuestros clientes."
+      },
+      "item4": {
+        "title": "Internacionalización",
+        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global."
+      }
+    },
+    "serviciosDescr": {
+      "item1": {
+        "title": "Consultoria",
+        "description1": "Asesoramiento y Ayuda continua en Amazon",
+        "description2": "Estrategia y Planificación del catálogo de productos.",
+        "description3": "Gestión de Contenidos, Publicidad y Promociones.",
+        "description4": "Auditoría de productos e informes de situación.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item2": {
+        "title": "Publicidad",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Mejoramos el rendimiento de tus productos en Amazon.",
+          "item2": "Lanzamiento de nuevos productos.",
+          "item3": "Actualización de productos.",
+          "item4": "Descripciones, título y especificaciones.",
+          "item5": "Fotografía mejorada.",
+          "item6": "Gestión de Keywords.",
+          "item7": "A+ Content.",
+          "item8": "Pricing."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item3": {
+        "title": "Marketing",
+        "description1": "Gestión y Optimización de Acciones de Marketing en Amazon",
+        "description2": "Activación de palancas de Marketing en Amazon de manera coherente y coordinada. ",
+        "description3": "Plan de Marketing en Amazon.",
+        "description4": "Activación de nuevos productos, mejora continua del posicionamiento (SEO), rating, ranking y obtención de la Buy Box.",
+        "description5": "Ejecución de acciones tácticas, promociones, ofertas flash, eventos, Black Friday, Prime Day, packaging, Buy Box.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Optimización de Assets (SEO)",
+          "item2": "Acciones tácticas de lanzamiento y estacionales.",
+          "item3": "Promociones flash, BOGO, descuentos, ofertas, cupones, etc.",
+          "item4": "Eventos especiales de Amazon como Black Friday o Prime Day.",
+          "item5": "Reviews y Q&As y Programa Vine.",
+          "item6": "Packaging, packs virtuales, packs por volumen, retractilados, bundles."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item4": {
+        "title": "Contenidos",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item5": {
+        "title": "Analítica",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      },
+      "item6": {
+        "title": "Formación",
+        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description2": "Categorización y creación de estructura del catálogo.",
+        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "servicios": {
+          "title": "Servicios",
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+        },
+        "ventajas": {
+          "title": "Ventajas",
+          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
+          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item3": "Identificación de necesidades tácticas y operativas",
+          "item4": "Definición de estrategia orientada en Amazon",
+          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+        }
+      }
+    }
+  },
+  "CONTACTO": {
+    "title": "¿Trabajamos juntos?",
+    "description": "Si estás pensando que podemos colaborar juntos para lanzar o crecer un proyecto, no dudes en ponerte en contacto. Responderemos tan pronto como podamos!",
+    "input1": "Nombre",
+    "input2": "Email",
+    "input3": "Teléfono",
+    "input4": {
+      "title": "Canal",
+      "option1": "Canal Online",
+      "option2": "Canal Offline"
+    },
+    "input5": "Página Web",
+    "input6": "Mensaje",
+    "input7": {
+      "title": "Marketplace",
+      "option1": "Amazon",
+      "option2": "ManoMano",
+      "option3": "Ambas",
+      "option4": "Otro"
+    },
+    "input8": {
+      "title": "¿Vendes actualmente en Amazon?",
+      "option1": "Si",
+      "option2": "No"
+    },
+    "input9": {
+      "title": "Plataforma interesado en potenciar",
+      "option1": "Vendor Central",
+      "option2": "Seller Central",
+      "option3": "Ambas"
+    },
+    "input10": {
+      "title": "¿Países interesado en potenciar?",
+      "option1": "España",
+      "option2": "UE",
+      "option3": "US"
+    },
+    "input11": "Número de productos",
+    "input12": {
+      "title": "Facturación anual de la empresa",
+      "option1": "Hasta 1 millón €/año",
+      "option2": "Hasta 3 millones €/año",
+      "option3": "Hasta 10 millones €/año",
+      "option4": "Hasta 50 millones €/año",
+      "option5": "Hasta 300 millones €/año",
+      "option6": "Más de 300 millones €/año",
+      "option7": "Superior"
+    },
+    "input13": {
+      "title": "Facturación anual en Amazon",
+      "option1": "Hasta 12.000€/año",
+      "option2": "Hasta 50.000€/año",
+      "option3": "Hasta 200.000€/año",
+      "option4": "Hasta 500.000€/año",
+      "option5": "Hasta 1.000.000€/año",
+      "option6": "Más de 5.000.000€/año",
+      "option7": "Superior"
+    },
+    "input14": {
+      "title": "¿Vendes actualmente en ManoMano?",
+      "option1": "Si",
+      "option2": "No"
+    },
+    "message": "Acepto la",
+    "messageLink": " política de privacidad",
+    "button": "Enviar"
+  }
+}

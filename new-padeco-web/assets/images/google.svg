@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="15px" viewBox="0 0 24 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>003-google-plus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Elementos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-872.000000, -331.000000)" fill="#FFFFFF">
+            <g id="003-google-plus" transform="translate(872.000000, 331.000000)">
+                <polygon id="Path" points="21 6 21 3 19.5 3 19.5 6 16.5 6 16.5 7.5 19.5 7.5 19.5 10.5 21 10.5 21 7.5 24 7.5 24 6"></polygon>
+                <path d="M7.5,6 L7.5,9 L11.7435,9 C11.124,10.746 9.456,12 7.5,12 C5.019,12 3,9.981 3,7.5 C3,5.019 5.019,3 7.5,3 C8.5755,3 9.6105,3.3855 10.4145,4.086 L12.3855,1.824 C11.0355,0.648 9.3015,0 7.5,0 C3.3645,0 0,3.3645 0,7.5 C0,11.6355 3.3645,15 7.5,15 C11.6355,15 15,11.6355 15,7.5 L15,6 L7.5,6 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
