@@ -10,6 +10,7 @@ export class ContactoComponent implements OnInit {
   mostrarOnline: Boolean = false;
   mostrarAmazon: Boolean = false;
   plataforma: String = 'Seleccione...';
+  facturacionTotal: String = 'Seleccione...'
   constructor() { }
 
   ngOnInit() {
