@@ -3,8 +3,8 @@
     <div class="image-wrapper">
         <a [routerLink]="['/']"><img src="assets/images/logo-black.svg" alt=""></a>
     </div>
+    <img src="assets/images/menu.svg" alt="" class="menu-image-mobile" (click)="showMenuMobile()">
     <div class="nav-wrapper">
-      <img src="assets/images/menu.svg" alt="" class="menu-image-mobile">
       <a [routerLink]="['/']" routerLinkActive="router-link-active">{{ 'HEADER.home' | translate }}</a>
       <a [routerLink]="['/servicios']" class="double-level">
         {{ 'HEADER.services' | translate }}
@@ -16,6 +16,29 @@
       <a [routerLink]="['/proyectos']">{{ 'HEADER.projects' | translate }}</a>
       <a [routerLink]="['/sobre-nosotros']">{{ 'HEADER.about' | translate }}</a>
       <a [routerLink]="['/contacto']">{{ 'HEADER.contact' | translate }}</a>
+    </div>
+    <div class="nav-wrapper-mobile" [@menuAnimation]="showMobile">
+      <div class="nav-content-wrapper">
+      <img src="assets/images/close.svg" alt="" (click)="hideMenuMobile()">
+        <a [routerLink]="['/']" routerLinkActive="router-link-active" (click)="hideMenuMobile()">{{ 'HEADER.home' | translate }}</a>
+        <a [routerLink]="['/servicios']" class="double-level" (click)="hideMenuMobile()">
+          {{ 'HEADER.services' | translate }}
+          <div class="header-options" *ngIf="optionsHover">
+            <a>Canal Digital</a>
+            <a>Canal Tradicional</a>
+          </div>
+        </a>
+        <a [routerLink]="['/proyectos']" (click)="hideMenuMobile()">{{ 'HEADER.projects' | translate }}</a>
+        <a [routerLink]="['/sobre-nosotros']" (click)="hideMenuMobile()">{{ 'HEADER.about' | translate }}</a>
+        <a [routerLink]="['/contacto']" (click)="hideMenuMobile()">{{ 'HEADER.contact' | translate }}</a>
+        <div class="social-networks">
+          <img src="assets/images/facebook-b.svg" alt="">
+          <img src="assets/images/instagram-b.svg" alt="">
+          <img src="assets/images/youtube-b.svg" alt="">
+          <img src="assets/images/google-b.svg" alt="">
+          <img src="assets/images/twitter-b.svg" alt="">
+        </div>
+      </div>
     </div>
   </div>
 </header>

@@ -61,7 +61,7 @@
   "HOME": {
     "header": {
       "titleOne": "Especialistas en",
-      "titleTwo": "crear",
+      "titleTwo": "maximizar",
       "titleThree": "canales de venta",
       "buttonOne": "Canal Online",
       "buttonTwo": "Canal Offline"
@@ -780,6 +780,7 @@
   "CONTACTO": {
     "title": "¿Trabajamos juntos?",
     "description": "Si estás pensando que podemos colaborar juntos para lanzar o crecer un proyecto, no dudes en ponerte en contacto. Responderemos tan pronto como podamos!",
+    "placeholder": "Seleccione...",
     "input1": "Nombre",
     "input2": "Email",
     "input3": "Teléfono",

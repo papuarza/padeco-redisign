@@ -1,4 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import {HttpClientModule, HttpClient} from '@angular/common/http';
 import {TranslateModule, TranslateLoader} from '@ngx-translate/core';
@@ -25,6 +26,7 @@ import { ProyectosComponent } from './pages/proyectos/proyectos.component';
 import { ComoTrabajamosComponent } from './shared/como-trabajamos/como-trabajamos.component';
 import { OportunidadBlackComponent } from './shared/oportunidad-black/oportunidad-black.component';
 import { ServiciosRowComponent } from './shared/servicios-row/servicios-row.component';
+import { FormsModule } from '@angular/forms';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/translations/', '.json');
@@ -56,6 +58,8 @@ export function createTranslateLoader(http: HttpClient) {
   imports: [
     BrowserModule,
     AppRoutingModule,
+    BrowserAnimationsModule,
+    FormsModule,
     HttpClientModule,
         TranslateModule.forRoot({
             loader: {
