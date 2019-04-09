@@ -16,8 +16,8 @@ const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'servicios', component: ServiciosComponent},
   { path: 'sobre-nosotros', component: SobreNosotrosComponent},
-  { path: 'digital', component: DigitalComponent},
-  { path: 'tradicional', component: TradicionalComponent},
+  { path: 'online', component: DigitalComponent},
+  { path: 'offline', component: TradicionalComponent},
   { path: 'ecuador', component: EcuadorComponent},
   { path: 'costa-rica', component: CostaRicaComponent},
   { path: 'amazon', component: AmazonComponent},
@@ -27,7 +27,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forRoot(routes, {scrollPositionRestoration: 'enabled'})],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }

@@ -4,8 +4,8 @@
     <h1>{{ 'HOME.header.titleTwo' | translate }}</h1>
     <h1>{{ 'HOME.header.titleThree' | translate }}</h1>
     <div class="buttons-landing-wrapper">
-      <a href="">{{ 'HOME.header.buttonOne' | translate }}</a>
-      <a href="">{{ 'HOME.header.buttonTwo' | translate }}</a>
+      <a [routerLink]="['/online']">{{ 'HOME.header.buttonOne' | translate }}</a>
+      <a [routerLink]="['/offline']">{{ 'HOME.header.buttonTwo' | translate }}</a>
     </div>
   </div>
 </div>

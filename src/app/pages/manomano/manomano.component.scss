@@ -249,8 +249,216 @@
   }
 }
 
-    
-    
-  
-  
-    
+@media only screen and (max-width: 600px) { 
+  .amazon-wrapper {
+    background-size: 83%;
+    background-position: bottom center;
+    width: 100%;
+    .amazon-content-wrapper {
+      width: 100%;
+      .amazon-header-text {
+        width: 100%;
+        padding: 20px 15px;
+        min-height: 85vh;
+        h2 {
+          font-size: 28px;
+          margin-bottom: 15px;
+        }
+        p {
+          font-size: 17px;
+        }
+      }
+    }
+  }
+  .servicios-amazon-wrapper {
+    .servicios-amazon-content {
+      width: 100%;
+      padding: 30px 15px;
+      h3 {
+        font-size: 24px;
+      }
+      p {
+        font-size: 18px;
+        margin-bottom: 15px;
+      }
+      .servicios-items-wrapper {
+        .item-content {
+          padding: 15px;
+          align-items: flex-start;
+          div {
+            h5 {
+              font-size: 18px;
+            }
+          }
+          p {
+            font-size: 14px;
+            margin-bottom: 20px;
+          }
+        }
+        .item-medium {
+          padding: 0 0 10px 0;
+          width: 100%;
+          div {
+            min-width: 30%;
+            img {
+              width: 75px;
+            }
+          }
+        }
+        .item-medium:first-child {
+          padding: 0 0 10px 0;
+        }
+        .item-small, .item-big {
+          padding: 0;
+          width: 100%;
+          .item-content {
+            min-height: auto;
+            flex-direction: row;
+            p {
+              margin-left:  25px;
+            }
+            h5 {
+              margin-bottom: 0;
+            }
+          }
+          div {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            min-width: 30%;
+            h5 {
+              font-size: 18px;
+              margin-bottom: 0px;
+            }
+          }
+          p {
+            font-size: 14px;
+          }
+          img {
+            width: 75px;
+          }
+        }
+        .item-small:nth-child(odd) {
+          padding: 0 0 10px 0;
+          margin: 0;
+        }
+        .item-small:nth-child(even) {
+          padding: 0 0 10px 0;
+          margin: 0;
+        }
+        .item-big {
+          padding: 0 0 10px 0;
+          margin: 0;
+          .item-content {
+            display: none;
+          }
+          .item-content.mobile {
+            display: flex;
+            div {
+              width: 30%;
+            }
+            h5 {
+              margin-left: 0;
+              margin-top: 10px;
+              font-size: 16px;
+            }
+          }
+        }
+      }
+    }
+  }
+  .amazon-oportunidad {
+    .amazon-oportunidad-content {
+      width: 100%;
+      padding: 30px 15px;
+      img {
+        width: 70%;
+      }
+      h3 {
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+      .oportunidad-columns {
+        flex-direction: column;
+        .oportunidad-description {
+          width: 100%;
+          p {
+            font-size: 16px;
+          }
+        }
+        .oportunidad-items {
+          width: 100%;
+          .item {
+            padding-left: 0;
+            padding-right: 10px;
+            h5 {
+              font-size: 17px;
+            }
+            p {
+              font-size: 15px;
+            }
+          }
+        }
+      }
+    }
+  }
+  .amazon-service-item {
+    width: 100%;
+    padding: 0px 15px 30px;
+    h3 {
+      font-size: 28px;
+    }
+    ul {
+      margin-bottom: 0px;
+      width: 90%;
+      li {
+        font-size: 15px;
+        margin-bottom: 15px;
+      }
+    }
+    .description-wrapper {
+      width: 100%;
+      flex-direction: column;
+      .text {
+        order: 2;
+        width: 100%;
+        padding: 0 0px;
+        h5 {
+          font-size: 18px;
+          margin-bottom: 15px;
+        }
+        ul {
+          li {
+            font-size: 15px;
+            margin-bottom: 10px;
+          }
+        }
+      }
+      .image {
+        width: 100%;
+        order: 1;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+        img {
+          width: 280px;
+        }
+      }
+    }
+    .ventajas-wrapper {
+      h5 {
+        font-size: 18px;
+        margin-top: 25px;
+        margin-bottom: 15px;
+      }
+      ul {
+        li {
+          font-size: 15px;
+          margin-bottom: 10px;
+          text-align: left;
+        }
+      }
+    }
+  }
+}
