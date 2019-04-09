@@ -17,6 +17,9 @@ header {
     display: flex;
     width: 558px;
     justify-content: space-between;
+    .menu-image-mobile {
+      display: none;
+    }
     a {
       text-decoration: none;
       font-weight: 300;
@@ -40,6 +43,30 @@ header {
         margin-bottom: 18px;
       }
     }
+  }
+}
+
+@media only screen and (max-width: 600px) { 
+  header {
+    height: auto;
+    padding: 10px 15px;
+    .header-wrapper {
+      width: 100%;
+      img {
+        width: 100px;
+      }
+    }
+    .nav-wrapper {
+      justify-content: flex-end;
+      width: auto;
+      a {
+        display: none;
+      }
+      .menu-image-mobile {
+        display: inline;
+        width: 35px
+      }
+    } 
   }
 }
 

@@ -76,3 +76,32 @@ footer {
     }
   }
 }
+
+@media only screen and (max-width: 600px) {  
+  footer {
+    .footer-wrapper {
+      width: 100%;
+      padding-left: 15px;
+      padding-right: 15px;
+      .links-wrapper {
+        flex-wrap: wrap;
+        .column-link-wrapper {
+          width: 33%;
+          margin-bottom: 15px;
+        }
+      }
+      .logos-wrapper {
+        flex-direction: column;
+        .main-logo {
+          display: flex;
+          justify-content: center;
+          margin-bottom: 10px;
+        }
+        .policy {
+          margin-bottom: 15px;
+        }
+
+      }
+    }
+  }
+}
