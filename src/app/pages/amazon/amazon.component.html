@@ -13,6 +13,7 @@
     <p>{{ 'AMAZON.servicios.description' | translate }}</p>
     <div class="servicios-items-wrapper">
       <div class="item-medium">
+          <a href="amazon#consultoria">
         <div class="item-content">
           <div>
             <img src="assets/images/amazon-servicios-item1.svg" alt="">
@@ -20,8 +21,10 @@
           </div>
           <p>{{ 'AMAZON.servicios.item1.description' | translate }}</p>
         </div>
+      </a>
       </div>
       <div class="item-medium">
+          <a href="amazon#contenidos">
         <div class="item-content">
           <div>
             <img src="assets/images/amazon-servicios-item2.svg" alt="">
@@ -29,8 +32,10 @@
           </div>
           <p>{{ 'AMAZON.servicios.item2.description' | translate }}</p>
         </div>
+        </a>
       </div>
       <div class="item-small">
+          <a href="amazon#marketing">
         <div class="item-content">
           <div>
           <img src="assets/images/amazon-servicios-item3.svg" alt="">
@@ -38,8 +43,10 @@
         </div>
           <p>{{ 'AMAZON.servicios.item3.description' | translate }}</p>
         </div>
+        </a>
       </div>
       <div class="item-small">
+          <a href="amazon#publicidad">
         <div class="item-content">
           <div>
           <img src="assets/images/amazon-servicios-item4.svg" alt="">
@@ -47,8 +54,10 @@
         </div>
           <p>{{ 'AMAZON.servicios.item4.description' | translate }}</p>
         </div>
+        </a>
       </div>
       <div class="item-small">
+          <a href="amazon#analitica">
         <div class="item-content">
           <div>
           <img src="assets/images/amazon-servicios-item5.svg" alt="">
@@ -56,8 +65,10 @@
         </div>
           <p>{{ 'AMAZON.servicios.item5.description' | translate }}</p>
         </div>
+        </a>
       </div>
       <div class="item-big">
+          <a href="amazon#formacion">
         <div class="item-content">
           <img src="assets/images/amazon-servicios-item6.svg" alt="">
           <div>
@@ -72,6 +83,7 @@
             </div>
               <p>{{ 'AMAZON.servicios.item6.description' | translate }}</p>
           </div>
+          </a>
       </div>
     </div>
   </div>
@@ -106,7 +118,8 @@
     </div>
   </div>
 </div>
-<div class="amazon-service-item">
+<div class="amazon-service-item-wrapper">
+<div class="amazon-service-item" id="consultoria">
   <h3>{{ 'AMAZON.serviciosDescr.item1.title' | translate }}</h3>
   <ul>
     <li>{{ 'AMAZON.serviciosDescr.item1.description1' | translate }}</li>
@@ -155,7 +168,9 @@
     </ul>
   </div>
 </div>
-<div class="amazon-service-item">
+</div>
+<div class="amazon-service-item-wrapper">
+<div class="amazon-service-item" id="contenidos">
   <h3>{{ 'AMAZON.serviciosDescr.item2.title' | translate }}</h3>
   <ul>
     <li>{{ 'AMAZON.serviciosDescr.item2.description1' | translate }}</li>
@@ -198,8 +213,9 @@
       <li>{{ 'AMAZON.serviciosDescr.item2.ventajas.item5' | translate }}</li>
     </ul>
   </div>
-</div>
-<div class="amazon-service-item">
+</div></div>
+<div class="amazon-service-item-wrapper">
+<div class="amazon-service-item" id="marketing">
   <h3>{{ 'AMAZON.serviciosDescr.item3.title' | translate }}</h3>
   <ul>
     <li>{{ 'AMAZON.serviciosDescr.item3.description1' | translate }}</li>
@@ -241,7 +257,9 @@
     </ul>
   </div>
 </div>
-<div class="amazon-service-item">
+</div>
+<div class="amazon-service-item-wrapper">
+<div class="amazon-service-item" id="publicidad">
   <h3>{{ 'AMAZON.serviciosDescr.item4.title' | translate }}</h3>
   <ul>
     <li>{{ 'AMAZON.serviciosDescr.item4.description1' | translate }}</li>
@@ -289,7 +307,9 @@
     </ul>
   </div>
 </div>
-<div class="amazon-service-item">
+</div>
+<div class="amazon-service-item-wrapper">
+<div class="amazon-service-item" id="analitica">
   <h3>{{ 'AMAZON.serviciosDescr.item5.title' | translate }}</h3>
   <ul>
     <li>{{ 'AMAZON.serviciosDescr.item5.description1' | translate }}</li>
@@ -338,7 +358,9 @@
     </ul>
   </div>
 </div>
-<div class="amazon-service-item">
+</div>
+<div class="amazon-service-item-wrapper">
+<div class="amazon-service-item" id="formacion">
     <h3>{{ 'AMAZON.serviciosDescr.item6.title' | translate }}</h3>
     <ul>
       <li>{{ 'AMAZON.serviciosDescr.item6.description1' | translate }}</li>
@@ -386,6 +408,7 @@
       </ul>
     </div>
   </div>
+</div>
 <app-como-trabajamos></app-como-trabajamos>
 <app-oportunidad></app-oportunidad>
 <app-oficinas></app-oficinas>

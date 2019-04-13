@@ -11,5 +11,4 @@ export class AmazonComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }

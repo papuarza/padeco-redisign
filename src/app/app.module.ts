@@ -27,6 +27,8 @@ import { ComoTrabajamosComponent } from './shared/como-trabajamos/como-trabajamo
 import { OportunidadBlackComponent } from './shared/oportunidad-black/oportunidad-black.component';
 import { ServiciosRowComponent } from './shared/servicios-row/servicios-row.component';
 import { FormsModule } from '@angular/forms';
+import { NgxPageScrollCoreModule } from 'ngx-page-scroll-core';
+import { NgxPageScrollModule } from 'ngx-page-scroll';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/translations/', '.json');
@@ -60,6 +62,8 @@ export function createTranslateLoader(http: HttpClient) {
     AppRoutingModule,
     BrowserAnimationsModule,
     FormsModule,
+    NgxPageScrollCoreModule,
+    NgxPageScrollModule,
     HttpClientModule,
         TranslateModule.forRoot({
             loader: {
