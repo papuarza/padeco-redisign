@@ -11,13 +11,17 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
       state('hide', style({ opacity: 0, transform: "translateX(5%)", zIndex:4})),
       transition('show => hide', animate('400ms ease-in')),
       transition('hide => show', animate('400ms ease-out')),
+      state('showOptions', style({ opacity: 1, transform: "translateY(0)", zIndex:6})),
+      state('hideOptions', style({ opacity: 0, transform: "translateY(-5%)", zIndex:4})),
+      transition('showOptions => hideOptions', animate('400ms ease-in')),
+      transition('hideOptions => showOptions', animate('400ms ease-out')),
     ])
   ]
 })
 export class HeaderComponent implements OnInit {
-  optionsHover: Boolean = false;
   showMobile: String = 'hide';
   innerWidth = 0;
+  optionsHover = 'hideOptions';
   constructor() {
  
    }
@@ -25,10 +29,10 @@ export class HeaderComponent implements OnInit {
     
   }
   showOptions() {
-    this.optionsHover = true;
+    this.optionsHover = 'showOptions';
   }
   hideOptions() {
-    this.optionsHover = false;
+    this.optionsHover = 'hideOptions';
   }
   showMenuMobile() {
     this.showMobile = 'show';

@@ -8,12 +8,14 @@
       <a [routerLink]="['/']" routerLinkActive="router-link-active">{{ 'HEADER.home' | translate }}</a>
       <a [routerLink]="['/servicios']" class="double-level">
         {{ 'HEADER.services' | translate }}
-        <div class="header-options" *ngIf="optionsHover">
-          <a>Canal Digital</a>
-          <a>Canal Tradicional</a>
+        <div class="header-options-wrapper" (mouseover)="showOptions()" [@menuAnimation]="optionsHover" (mouseout)="hideOptions()">
+          <div class="header-options" *ngIf="optionsHover">
+            <a [routerLink]="['/online']">{{ 'HEADER.servicesOptions.option1' | translate }}</a>
+            <a [routerLink]="['/offline']">{{ 'HEADER.servicesOptions.option2' | translate }}</a>
+          </div>
         </div>
       </a>
-      <a [routerLink]="['/proyectos']">{{ 'HEADER.projects' | translate }}</a>
+      <!-- <a [routerLink]="['/proyectos']">{{ 'HEADER.projects' | translate }}</a> -->
       <a [routerLink]="['/sobre-nosotros']">{{ 'HEADER.about' | translate }}</a>
       <a [routerLink]="['/contacto']">{{ 'HEADER.contact' | translate }}</a>
     </div>
@@ -28,7 +30,7 @@
             <a>Canal Tradicional</a>
           </div>
         </a>
-        <a [routerLink]="['/proyectos']" (click)="hideMenuMobile()">{{ 'HEADER.projects' | translate }}</a>
+        <!-- <a [routerLink]="['/proyectos']" (click)="hideMenuMobile()">{{ 'HEADER.projects' | translate }}</a> -->
         <a [routerLink]="['/sobre-nosotros']" (click)="hideMenuMobile()">{{ 'HEADER.about' | translate }}</a>
         <a [routerLink]="['/contacto']" (click)="hideMenuMobile()">{{ 'HEADER.contact' | translate }}</a>
         <div class="social-networks">

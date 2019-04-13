@@ -2,6 +2,10 @@
   "HEADER": {
     "home": "Inicio",
     "services": "Servicios",
+    "servicesOptions": {
+      "option1": "Canal Online",
+      "option2": "Canal Offline"
+    },
     "projects": "Proyectos",
     "about": "Nosotros",
     "contact": "Contacto"

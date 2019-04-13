@@ -21,7 +21,7 @@ header {
   }
   .nav-wrapper {
     display: flex;
-    width: 558px;
+    width: 475px;
     justify-content: space-between;
     a {
       text-decoration: none;
@@ -31,10 +31,16 @@ header {
     a.double-level {
       position: relative;
     }
-    a.double-level div {
+    a.double-level .header-options-wrapper {
+      position: absolute;
+    top: 0;
+    width: 170%;
+    height: 100%;
+    min-height: 125px;
+      div {
       position: absolute;
       top: 30px;
-      width: 155%;
+      width: 100%;
       padding: 15px 10px 0 10px;
       left: 0;
       display: flex;
@@ -46,6 +52,7 @@ header {
         margin-bottom: 18px;
       }
     }
+  }
   }
 }
 
