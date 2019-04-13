@@ -287,6 +287,12 @@ MIT
 @angular/animations
 MIT
 
+ngx-page-scroll-core
+MIT
+
+ngx-page-scroll
+MIT
+
 zone.js
 MIT
 The MIT License

@@ -2,6 +2,10 @@
   "HEADER": {
     "home": "Inicio",
     "services": "Servicios",
+    "servicesOptions": {
+      "option1": "Canal Online",
+      "option2": "Canal Offline"
+    },
     "projects": "Proyectos",
     "about": "Nosotros",
     "contact": "Contacto"
@@ -398,20 +402,22 @@
         }
       },
       "item2": {
-        "title": "Publicidad",
+        "title": "Contenidos",
         "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
         "description2": "Categorización y creación de estructura del catálogo.",
         "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
         "servicios": {
           "title": "Servicios",
-          "item1": "Mejoramos el rendimiento de tus productos en Amazon.",
-          "item2": "Lanzamiento de nuevos productos.",
-          "item3": "Actualización de productos.",
-          "item4": "Descripciones, título y especificaciones.",
-          "item5": "Fotografía mejorada.",
-          "item6": "Gestión de Keywords.",
-          "item7": "A+ Content.",
-          "item8": "Pricing."
+          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
+          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
+          "item3": "Catálogo de productos y contenidos.",
+          "item4": "Plan de Marketing en Amazon.",
+          "item5": "Definición y gestión de estrategia multicanal.",
+          "item6": "Protección de marca",
+          "item7": "Publicidad y Promociones.",
+          "item8": "Logística, packaging, stock e incidencias",
+          "item9": "Formación Interna.",
+          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
         },
         "ventajas": {
           "title": "Ventajas",
@@ -448,22 +454,20 @@
         }
       },
       "item4": {
-        "title": "Contenidos",
+        "title": "Publicidad",
         "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
         "description2": "Categorización y creación de estructura del catálogo.",
         "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
         "servicios": {
           "title": "Servicios",
-          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
-          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
-          "item3": "Catálogo de productos y contenidos.",
-          "item4": "Plan de Marketing en Amazon.",
-          "item5": "Definición y gestión de estrategia multicanal.",
-          "item6": "Protección de marca",
-          "item7": "Publicidad y Promociones.",
-          "item8": "Logística, packaging, stock e incidencias",
-          "item9": "Formación Interna.",
-          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+          "item1": "Mejoramos el rendimiento de tus productos en Amazon.",
+          "item2": "Lanzamiento de nuevos productos.",
+          "item3": "Actualización de productos.",
+          "item4": "Descripciones, título y especificaciones.",
+          "item5": "Fotografía mejorada.",
+          "item6": "Gestión de Keywords.",
+          "item7": "A+ Content.",
+          "item8": "Pricing."
         },
         "ventajas": {
           "title": "Ventajas",
