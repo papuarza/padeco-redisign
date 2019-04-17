@@ -14,10 +14,10 @@ import { ProyectosComponent } from './pages/proyectos/proyectos.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'servicios', component: ServiciosComponent},
   { path: 'sobre-nosotros', component: SobreNosotrosComponent},
   { path: 'online', component: DigitalComponent},
   { path: 'offline', component: TradicionalComponent},
+  { path: 'servicios', component: ServiciosComponent},
   { path: 'ecuador', component: EcuadorComponent},
   { path: 'costa-rica', component: CostaRicaComponent},
   { path: 'amazon', component: AmazonComponent},

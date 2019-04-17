@@ -55,7 +55,7 @@
   },
   "OFFICE": {
     "title": "¿Dónde puedes encontrarnos?",
-    "subtitle": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus."
+    "subtitle": "Trabajamos a nivel global pero nuestras oficinas se encuentrán en éstas tres ciudades. Si tiene alguna duda o consulta, no dude en contactar!"
   },
   "CONTACT": {
     "title": "¿Hablamos?",
@@ -93,30 +93,30 @@
     },
     "thirdRow": {
       "title": "¿Cómo trabajamos?",
-      "description": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso bla bla bla lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo eros nec massa luctus.",
+      "description": "En Padeco entendemos que un buen proceso, genera grandes resultados, por eso desarrollamos un proceso que aplicamos de forma personalizada a cada nuevo cliente/producto con el que trabajamos, para así obtener una estrategia detallada de nuestro plan de acción.",
       "item1": {
-        "title": "Análisis de Situación",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "title": "Análisis Previo",
+        "description": "Antes de introducir cualquier producto, hacemos un amplio estudio de mercado sobre el sector, competencia y potencial del mismo."
       },
       "item2": {
         "title": "Desarrollo de Estrategias",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Estudiamos cuáles serían las formas de acceder de manera óptima, eligiendo canales, partners, pricing, publicidad para maximizar el éxito del producto."
       },
       "item3": {
         "title": "Planteamiento de Acciones",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "En esta fase definimos las distintas tareas a realizar para la optimización de los resultados."
       },
       "item4": {
         "title": "Implementación de Acciones",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Es la realización de las estrategias y acciones planteadas sobre los productos de nuestros clientes."
       },
       "item5": {
         "title": "Medición de Resultados",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Después de un período determinado, se evalúa los rendimientos que se han obtenido junto con el cliente. "
       },
       "item6": {
         "title": "Procesamiento del Feedback",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Una vez tengamos los resultados de la operación, analizamos cuidadosamente los datos."
       }
     },
     "fourthRow": {
@@ -421,11 +421,10 @@
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Identificamos tus KPIs y establecemos objetivos de incremento de ventas y relevancia de productos.",
+          "item2": "Buscamos keywords para tus productos estudiando el mercado, la competencia y las opiniones de los clientes.",
+          "item3": "Gestionamos tu Product Listing y actualizamos cada asset de forma continua.",
+          "item4": "Gestionamos y Optimizamos los comentarios, opiniones y Q&A."
         }
       },
       "item3": {
@@ -446,63 +445,55 @@
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Estrategia, gestión y optimización de promociones.",
+          "item2": "Estrategia, gestión y optimización de eventos especiales.",
+          "item3": "Estrategia y gestión de Reviews, Q&A y Acciones Vine.",
+          "item4": "Estrategia y gestión de acciones de packaging."
         }
       },
       "item4": {
         "title": "Publicidad",
-        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
-        "description2": "Categorización y creación de estructura del catálogo.",
-        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "description1": "Gestión y optimización de campañas de publicidad en Amazon.",
+        "description2": "Definición de estrategias integrales, gestión y optimización de campañas de publicidad en Amazon Advertising.",
+        "description3": "Publicidad orientada al producto.",
+        "description4": "Segmentación por comportamiento de compra.",
+        "description5": "Reporting en tiempo real 100% transparente.",
+        "description6": "Gestión de formatos y creatividades.",
         "servicios": {
           "title": "Servicios",
-          "item1": "Mejoramos el rendimiento de tus productos en Amazon.",
-          "item2": "Lanzamiento de nuevos productos.",
-          "item3": "Actualización de productos.",
-          "item4": "Descripciones, título y especificaciones.",
-          "item5": "Fotografía mejorada.",
-          "item6": "Gestión de Keywords.",
-          "item7": "A+ Content.",
-          "item8": "Pricing."
+          "item1": "Amazon Advertising",
+          "item2": "Sponsored Ads: Llega a los clientes de Amazon con anuncios de pago por clic para los productos.",
+          "item3": "Display Ads: Alcanza, inspira y vuelve a atraer a tu audiencia.",
+          "item4": "Video Ads: Comparte la historia de tu marca y atrae a tu audiencia dentro y fuera de Amazon.",
+          "item5": "Stores: Construye un sitio web en Amazon para tu marca con su propia url.",
+          "item6": "Amazon DSP: Alcanza de forma programática a todas tus audiencias, a gran escala y donde se encuentren."
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Gestión y optimización de campañas de performance.",
+          "item2": "Gestión y optimización de campañas awareness.",
+          "item3": "Gestión y optimización de ofertas y descuentos de venta."
         }
       },
       "item5": {
         "title": "Analítica",
-        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
-        "description2": "Categorización y creación de estructura del catálogo.",
-        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "description1": "Reporting de ventas e indicadores clave en Amazon.",
+        "description2": "Dashboard de seguimiento de ventas e inventario, product listing y competencia.",
+        "description3": "Gestión de Amazon Retail Basic (ARA); herramienta principal de informes disponible para los proveedores de Amazon.",
+        "description4": "Gestión de Amazon Retail Analytics Premium (ARA Premium); suite de informes adicionales a los que los proveedores tienen acceso a través de Vendor Central.",
         "servicios": {
           "title": "Servicios",
-          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
-          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
-          "item3": "Catálogo de productos y contenidos.",
-          "item4": "Plan de Marketing en Amazon.",
-          "item5": "Definición y gestión de estrategia multicanal.",
-          "item6": "Protección de marca",
-          "item7": "Publicidad y Promociones.",
-          "item8": "Logística, packaging, stock e incidencias",
-          "item9": "Formación Interna.",
-          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+          "item1": "Análisis de variables, seguimiento de KPIs y definición de acciones frente a desviaciones.",
+          "item2": "Ventas.(Sell in) Ventas a Amazon y (Sell out) Ventas de Amazon, Forecasting, Ship Costs of Goods Sold (GOGS).",
+          "item3": "Comportamiento del cliente,visitas, tasa de conversión, desempeño geográfico, cesta de la compra.",
+          "item4": "Tendencias del mercado,competencia, keywords genéricas y de marca"
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Informes ejecutivos de ventas y reuniones periódicas de seguimiento.",
+          "item2": "Informe continuo de mejoras en catálogo de productos y de los KPIs más relevantes.",
+          "item3": "Informe de estudio de mercado y competencia para la toma de decisiones estratégicas.",
+          "item4": "Gestión de incidencias graves."
         }
       },
       "item6": {
@@ -586,29 +577,25 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
       },
       "item4": {
-        "title": "Publicidad",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
-      },
-      "item5": {
         "title": "Analítica",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus augue nec varius ornare. In ac risus pharetra, porta justo vitae, convallis orci. Praesent rhoncus vitae mi a euismod."
       },
-      "item6": {
+      "item5": {
         "title": "Formación equipos especializados",
-        "description": "Tenemos mucha experiencia en formación a empresas que quieren crear y formar departamentos internos para potenciar sus ventas en Amazon. Cada día más empresas tienen la necesidad específica de formar a sus equipos en algo tan cambiante y complicado como es Amazon. Somos totalmente flexibles y nos adaptamos a todo tipo de organizaciones, desde grandes corporaciones internacionales hasta empresas más pequeñas con otras necesidades."
+        "description": "Tenemos mucha experiencia en formación a empresas que quieren crear y formar departamentos internos para potenciar sus ventas en ManoMano."
       }
     },
     "oportunidad": {
       "title": "La oportunidad es ahora. Crezcamos juntos.",
-      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de Amazon Vendor Central y Seller Central para generar un crecimiento sostenible en estos canales.",
-      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, en Amazon, de forma sostenible al combinar tecnología y software con el mejor conocimiento de la plataforma",
+      "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de la plataforma ManoMano para generar un crecimiento sostenible en estos canales.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, en ManoMano, de forma sostenible al combinar tecnología y software con el mejor conocimiento de la plataforma",
       "item1": {
         "title": "Servicio Completo",
         "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
       },
       "item2": {
         "title": "Experiencia",
-        "description": "Amplia experiencia en la gestión de cuentas y resolución de incidencias junto con una constante formación sobre Amazon."
+        "description": "Amplia experiencia en la gestión de cuentas y resolución de incidencias junto con una constante formación sobre ManoMano."
       },
       "item3": {
         "title": "Tecnología",
@@ -616,46 +603,43 @@
       },
       "item4": {
         "title": "Internacionalización",
-        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global."
+        "description": "Implementación de estas prácticas en todos los mercados de ManoMano con un alcance global."
       }
     },
     "serviciosDescr": {
       "item1": {
         "title": "Consultoria",
-        "description1": "Asesoramiento y Ayuda continua en Amazon",
+        "description1": "Asesoramiento y Ayuda continua en ManoMano",
         "description2": "Estrategia y Planificación del catálogo de productos.",
-        "description3": "Gestión de Contenidos, Publicidad y Promociones.",
+        "description3": "Gestión de Contenidos.",
         "description4": "Auditoría de productos e informes de situación.",
         "servicios": {
           "title": "Servicios",
           "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
           "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
           "item3": "Catálogo de productos y contenidos.",
-          "item4": "Plan de Marketing en Amazon.",
-          "item5": "Definición y gestión de estrategia multicanal.",
-          "item6": "Protección de marca",
-          "item7": "Publicidad y Promociones.",
-          "item8": "Logística, packaging, stock e incidencias",
-          "item9": "Formación Interna.",
-          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+          "item4": "Plan de Marketing en ManoMano.es.",
+          "item5": "Logística, packaging, stock e incidencias",
+          "item6": "Formación Interna.",
+          "item7": "Soporte técnico sobre plataforma FBM (Fullfilment by Merchant)."
         },
         "ventajas": {
           "title": "Ventajas",
           "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
+          "item2": "Visión global y ejecutiva de tu Marca en ManoMano",
           "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item4": "Definición de estrategia orientada en ManoMano",
+          "item5": "Facilidad de contacto con ManoMano para la resolución de dudas, propuestas o problemas con la plataforma."
         }
       },
       "item2": {
         "title": "Publicidad",
-        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
+        "description1": "Gestión priorizada de productos según potencial en ManoMano, relevancia para los usuarios y objetivos comerciales del cliente.",
         "description2": "Categorización y creación de estructura del catálogo.",
         "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
         "servicios": {
           "title": "Servicios",
-          "item1": "Mejoramos el rendimiento de tus productos en Amazon.",
+          "item1": "Mejoramos el rendimiento de tus productos en ManoMano.",
           "item2": "Lanzamiento de nuevos productos.",
           "item3": "Actualización de productos.",
           "item4": "Descripciones, título y especificaciones.",
@@ -666,93 +650,52 @@
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Identificamos tus KPIs y establecemos objetivos de incremento de ventas y relevancia de productos.",
+          "item2": "Buscamos keywords para tus productos estudiando el mercado, la competencia y las opiniones de los clientes.",
+          "item3": "Gestionamos tu Product Listing y actualizamos cada asset de forma continua.",
+          "item4": "Gestionamos y Optimizamos los comentarios, opiniones y Q&A."
         }
       },
       "item3": {
         "title": "Marketing",
-        "description1": "Gestión y Optimización de Acciones de Marketing en Amazon",
-        "description2": "Activación de palancas de Marketing en Amazon de manera coherente y coordinada. ",
-        "description3": "Plan de Marketing en Amazon.",
-        "description4": "Activación de nuevos productos, mejora continua del posicionamiento (SEO), rating, ranking y obtención de la Buy Box.",
-        "description5": "Ejecución de acciones tácticas, promociones, ofertas flash, eventos, Black Friday, Prime Day, packaging, Buy Box.",
+        "description1": "Gestión y Optimización de Acciones de Marketing en ManoMano",
+        "description2": "Activación de palancas de Marketing en ManoMano de manera coherente y coordinada. ",
+        "description3": "Plan de Marketing en ManoMano.",
+        "description4": "Activación de nuevos productos, mejora continua del posicionamiento (SEO), rating, ranking y obtención de la Pay Box.",
         "servicios": {
           "title": "Servicios",
           "item1": "Optimización de Assets (SEO)",
           "item2": "Acciones tácticas de lanzamiento y estacionales.",
-          "item3": "Promociones flash, BOGO, descuentos, ofertas, cupones, etc.",
-          "item4": "Eventos especiales de Amazon como Black Friday o Prime Day.",
-          "item5": "Reviews y Q&As y Programa Vine.",
-          "item6": "Packaging, packs virtuales, packs por volumen, retractilados, bundles."
+          "item3": "Reviews y Q&As.",
+          "item4": "Packaging."
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Estrategia, gestión y optimización de promociones.",
+          "item2": "Estrategia, gestión y optimización de eventos especiales.",
+          "item3": "Estrategia y gestión de Reviews, Q&A.",
+          "item4": "Estrategia y gestión de acciones de packaging."
         }
       },
       "item4": {
-        "title": "Contenidos",
-        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
-        "description2": "Categorización y creación de estructura del catálogo.",
-        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
+        "title": "Analítica",
+        "description1": "Reporting de ventas e indicadores clave de Manomano.",
+        "description2": "Gestión de la Toolbox de Manomano:  herramienta principal de informes disponible para los proveedores.",
         "servicios": {
           "title": "Servicios",
-          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
-          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
-          "item3": "Catálogo de productos y contenidos.",
-          "item4": "Plan de Marketing en Amazon.",
-          "item5": "Definición y gestión de estrategia multicanal.",
-          "item6": "Protección de marca",
-          "item7": "Publicidad y Promociones.",
-          "item8": "Logística, packaging, stock e incidencias",
-          "item9": "Formación Interna.",
-          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
+          "item1": "Análisis de variables, seguimiento de KPIs y definición de acciones frente a desviaciones.",
+          "item2": "Comportamiento del cliente,visitas, tasa de conversión, desempeño geográfico, cesta de la compra.",
+          "item3": "Tendencias del mercado,competencia, keywords genéricas y de marca."
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
+          "item1": "Informes ejecutivos de ventas y reuniones periódicas de seguimiento.",
+          "item2": "Informe continuo de mejoras en catálogo de productos y de los KPIs más relevantes.",
+          "item3": "Informe de estudio de mercado y competencia para la toma de decisiones estratégicas.",
+          "item4": "Gestión de incidencias graves."
         }
       },
       "item5": {
-        "title": "Analítica",
-        "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
-        "description2": "Categorización y creación de estructura del catálogo.",
-        "description3": "Taxonomía de la página de detalle de productos, investigación y generación de contenidos enriquecidos.",
-        "servicios": {
-          "title": "Servicios",
-          "item1": "Objetivos a corto, medio y largo plazo y seguimiento.",
-          "item2": "Análisis de KPIs y definición de acciones frente a desviaciones.",
-          "item3": "Catálogo de productos y contenidos.",
-          "item4": "Plan de Marketing en Amazon.",
-          "item5": "Definición y gestión de estrategia multicanal.",
-          "item6": "Protección de marca",
-          "item7": "Publicidad y Promociones.",
-          "item8": "Logística, packaging, stock e incidencias",
-          "item9": "Formación Interna.",
-          "item10": "Soporte técnico sobre las plataformas Vendor Central, Seller Central y Advantage, tanto FBA como FBM."
-        },
-        "ventajas": {
-          "title": "Ventajas",
-          "item1": "Apoyo en decisiones de Trade Marketing & eCommerce",
-          "item2": "Visión global y ejecutiva de tu Marca en Amazon",
-          "item3": "Identificación de necesidades tácticas y operativas",
-          "item4": "Definición de estrategia orientada en Amazon",
-          "item5": "Facilidad de contacto con Amazon para la resolución de dudas, propuestas o problemas con la plataforma."
-        }
-      },
-      "item6": {
         "title": "Formación",
         "description1": "Gestión priorizada de productos según potencial en Amazon, relevancia para los usuarios y objetivos comerciales del cliente.",
         "description2": "Categorización y creación de estructura del catálogo.",
