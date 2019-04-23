@@ -6,7 +6,7 @@
       <p>{{ 'NOSOTROS.header.description3' | translate }}</p>
     </div>
 </div>
-<div class="second-row-home">
+<div class="second-row-home" id="por-que-padeco">
     <div class="second-row-home-content">
       <div class="left-container">
         <h2>{{ 'NOSOTROS.secondRow.title' | translate }}</h2>
@@ -39,4 +39,17 @@
     </div>
   </div>
   <app-oportunidad-black></app-oportunidad-black>
-<app-oficinas></app-oficinas>
+  <div class="fifth-row-home" id="proyectos">
+      <div class="fifth-row-home-content">
+          <h3>{{ 'HOME.fifthRow.title' | translate }}</h3>
+          <p>{{ 'HOME.fifthRow.description' | translate }}</p>
+          <div class="logo-project-wrapper">
+            <img src="assets/images/logo-1.svg" alt="">
+            <img src="assets/images/logo-2.svg" alt="">
+            <img src="assets/images/logo-3.svg" alt="">
+            <img src="assets/images/logo-4.svg" alt="">
+            <img src="assets/images/logo-5.svg" alt="">
+          </div>
+      </div>
+    </div>
+<app-oficinas id="oficinas"></app-oficinas>

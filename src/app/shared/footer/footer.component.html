@@ -3,39 +3,36 @@
     <div class="links-wrapper">
       <div class="column-link-wrapper">
         <p>{{ 'FOOTER.firstColumn.title' | translate }}</p>
-        <a>{{ 'FOOTER.firstColumn.link1' | translate }}</a>
-        <a>{{ 'FOOTER.firstColumn.link2' | translate }}</a>
-        <a>{{ 'FOOTER.firstColumn.link3' | translate }}</a>
-        <a>{{ 'FOOTER.firstColumn.link4' | translate }}</a>
-        <a>{{ 'FOOTER.firstColumn.link5' | translate }}</a>
-        <a>{{ 'FOOTER.firstColumn.link6' | translate }}</a>
+        <a href='/#beneficios'>{{ 'FOOTER.firstColumn.link1' | translate }}</a>
+        <a [routerLink]="['/servicios']">{{ 'FOOTER.firstColumn.link2' | translate }}</a>
+        <a href='/#como-trabajamos'>{{ 'FOOTER.firstColumn.link3' | translate }}</a>
+        <a href='/#proyectos'>{{ 'FOOTER.firstColumn.link4' | translate }}</a>
+        <a [routerLink]="['/contacto']">{{ 'FOOTER.firstColumn.link5' | translate }}</a>
+        <a href='/#oficinas'>{{ 'FOOTER.firstColumn.link6' | translate }}</a>
       </div>
       <div class="column-link-wrapper">
         <p>{{ 'FOOTER.secondColumn.title' | translate }}</p>
-        <a>{{ 'FOOTER.secondColumn.link1' | translate }}</a>
-        <a>{{ 'FOOTER.secondColumn.link2' | translate }}</a>
-        <a>{{ 'FOOTER.secondColumn.link3' | translate }}</a>
-        <a>{{ 'FOOTER.secondColumn.link4' | translate }}</a>
+        <a [routerLink]="['/online']">{{ 'FOOTER.secondColumn.link1' | translate }}</a>
+        <a [routerLink]="['/amazon']">{{ 'FOOTER.secondColumn.link2' | translate }}</a>
+        <a [routerLink]="['/manomano']">{{ 'FOOTER.secondColumn.link3' | translate }}</a>
+        <a href='/online#como-trabajamos'>{{ 'FOOTER.secondColumn.link4' | translate }}</a>
       </div>
       <div class="column-link-wrapper">
         <p>{{ 'FOOTER.thirdColumn.title' | translate }}</p>
-        <a>{{ 'FOOTER.thirdColumn.link1' | translate }}</a>
-        <a>{{ 'FOOTER.thirdColumn.link2' | translate }}</a>
-        <a>{{ 'FOOTER.thirdColumn.link3' | translate }}</a>
-        <a>{{ 'FOOTER.thirdColumn.link4' | translate }}</a>
-        <a>{{ 'FOOTER.thirdColumn.link5' | translate }}</a>
+        <a href='/offline#oportunidades'>{{ 'FOOTER.thirdColumn.link1' | translate }}</a>
+        <a [routerLink]="['/costa-rica']">{{ 'FOOTER.thirdColumn.link2' | translate }}</a>
+        <a [routerLink]="['/ecuador']">{{ 'FOOTER.thirdColumn.link3' | translate }}</a>
+        <a href='/offline#como-trabajamos'>{{ 'FOOTER.thirdColumn.link4' | translate }}</a>
       </div>
       <div class="column-link-wrapper">
         <p>{{ 'FOOTER.fourthColumn.title' | translate }}</p>
-        <a>{{ 'FOOTER.fourthColumn.link1' | translate }}</a>
-        <a>{{ 'FOOTER.fourthColumn.link2' | translate }}</a>
-        <a>{{ 'FOOTER.fourthColumn.link3' | translate }}</a>
-        <a>{{ 'FOOTER.fourthColumn.link4' | translate }}</a>
+        <a href='/sobre-nosotros#por-que-padeco'>{{ 'FOOTER.fourthColumn.link1' | translate }}</a>
+        <a href='/sobre-nosotros#proyectos'>{{ 'FOOTER.fourthColumn.link2' | translate }}</a>
+        <a href='/sobre-nosotros#oficinas'>{{ 'FOOTER.fourthColumn.link3' | translate }}</a>
       </div>
       <div class="column-link-wrapper">
         <p>{{ 'FOOTER.fifthColumn.title' | translate }}</p>
-        <a>{{ 'FOOTER.fifthColumn.link1' | translate }}</a>
-        <a>{{ 'FOOTER.fifthColumn.link2' | translate }}</a>
+        <a [routerLink]="['/contacto']">{{ 'FOOTER.fifthColumn.link1' | translate }}</a>
       </div>
     </div>
     <div class="language-selector">
