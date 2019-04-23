@@ -50,12 +50,12 @@
   },
   "OPORTUNIDAD": {
     "title": "¡La oprtunidad es ahora!",
-    "subtitle": "Haz crecer tu negocio, con el crecimiento de tu marca y canales de ventas.",
+    "subtitle": "Haz crecer tu negocio con el crecimiento de tu marca a través de canales de venta.",
     "button": "Contactar"
   },
   "OFFICE": {
     "title": "¿Dónde puedes encontrarnos?",
-    "subtitle": "Trabajamos a nivel global pero nuestras oficinas se encuentrán en éstas tres ciudades. Si tiene alguna duda o consulta, no dude en contactar!"
+    "subtitle": "Trabajamos a nivel global pero nuestras oficinas se encuentrán en éstas tres ciudades. Si tiene alguna duda o consulta, ¡No dudes en contactarnos!"
   },
   "CONTACT": {
     "title": "¿Hablamos?",
@@ -176,7 +176,7 @@
     "secondRow": {
       "title": "Nuevas Oportunidades",
       "description1": "Padeco Global cuenta con un amplio conocimiento en la gestión de canales de venta tanto offline como online,  logrando un crecimiento sostenido y rentable en éstos canales.",
-      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, a través de marketplaces digitales o bien abriendo nuevos mercaods internacionales al combinar tecnología y software con el mejor conocimiento de nuestro equipo.",
+      "description2": "Permitimos tanto a Startups como a empresas líderes de mercado incrementar sus ventas, a través de marketplaces digitales o bien abriendo nuevos mercados internacionales al combinar tecnología y software con el mejor conocimiento de nuestro equipo.",
       "item1": {
         "title": "Expansión Internacional",
         "description": "Analítica y cobertura de todas las fases operacionales para optimizar las ventas de la plataforma: análisis de datos, contenido optimizado, publicidad"
@@ -191,7 +191,7 @@
       },
       "item4": {
         "title": "Posicionamiento de productos",
-        "description": "Implementación de estas prácticas en todos los mercados de Amazon con un alcance global."
+        "description": "Implementación de estas prácticas en todos los mercados operados."
       }
     },
     "thirdRow": {
