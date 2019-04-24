@@ -709,5 +709,33 @@
     "message": "Acepto la",
     "messageLink": " política de privacidad",
     "button": "Enviar"
+  },
+  "COMOTRABAJAMOS": {
+    "title": "¿Cómo trabajamos?",
+    "description": "En Padeco Global entendemos que implementar un buen proceso, desde el primer momento, genera grandes resultados y evita grandes frustraciones a futuro. Por ello nos focalizamos en estos 6 puntos claves.",
+    "item1": {
+      "title": "Análisis Previo",
+      "description": "Antes de introducir cualquier producto, hacemos un amplio estudio de mercado sobre el sector, competencia y potencial del mismo"
+    },
+    "item2": {
+      "title": "Desarrollo de Estrategias",
+      "description": "Estudiamos cuáles serían las formas de acceder de manera óptima, eligiendo canales, partners, pricing, publicidad para maximizar el éxito del producto"
+    },
+    "item3": {
+      "title": "Planteamiento de Acciones",
+      "description": "definimos las distintas tareas a realizar para la optimización de los resultados"
+    },
+    "item4": {
+      "title": "Implementación de Acciones",
+      "description": "Realización de las estrategias y acciones planteadas sobre los productos de nuestros clientes acompañando las acciones realizadas por parte del cliente para optimizar sus recursos."
+    },
+    "item5": {
+      "title": "Medición de Resultados",
+      "description": "Después de un período determinado según el producto que se haya introducido, se evalúa los rendimientos que se han obtenido junto con el cliente"
+    },
+    "item6": {
+      "title": "Procesamiento del Feedback",
+      "description": "Una vez tengamos los resultados de la operación, analizamos cuidadosamente los datos y el desarrollo de la misma, implementando medidas para mejorar él"
+    }
   }
 }
