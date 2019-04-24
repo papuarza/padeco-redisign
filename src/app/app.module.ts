@@ -29,6 +29,7 @@ import { ServiciosRowComponent } from './shared/servicios-row/servicios-row.comp
 import { FormsModule } from '@angular/forms';
 import { NgxPageScrollCoreModule } from 'ngx-page-scroll-core';
 import { NgxPageScrollModule } from 'ngx-page-scroll';
+import { ComoTrabajamosOfflineComponent } from './shared/como-trabajamos-offline/como-trabajamos-offline.component';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/translations/', '.json');
@@ -55,7 +56,8 @@ export function createTranslateLoader(http: HttpClient) {
     ProyectosComponent,
     ComoTrabajamosComponent,
     OportunidadBlackComponent,
-    ServiciosRowComponent
+    ServiciosRowComponent,
+    ComoTrabajamosOfflineComponent
   ],
   imports: [
     BrowserModule,

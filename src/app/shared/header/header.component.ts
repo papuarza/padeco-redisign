@@ -8,8 +8,8 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
   animations: [
     trigger('menuAnimation', [
       state('show', style({ opacity: 1, transform: "translateX(0)", zIndex:6})),
-      state('hide', style({ opacity: 0, transform: "translateX(5%)", zIndex:4})),
-      transition('show => hide', animate('400ms ease-in')),
+      state('hide', style({ opacity: 0, transform: "translateX(100%)", zIndex:4})),
+      transition('show => hide', animate('200ms ease-in')),
       transition('hide => show', animate('400ms ease-out')),
       state('showOptions', style({ opacity: 1, transform: "translateY(0)", zIndex:6})),
       state('hideOptions', style({ opacity: 0, transform: "translateY(-5%)", zIndex:4})),

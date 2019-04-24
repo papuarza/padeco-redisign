@@ -277,13 +277,13 @@
       .amazon-header-text {
         width: 100%;
         padding: 20px 15px;
-        min-height: 80vh;
+        min-height: 85vh;
         h2 {
           font-size: 28px;
           margin-bottom: 15px;
         }
         p {
-          font-size: 18px;
+          font-size: 16px;
         }
       }
     }
@@ -420,6 +420,7 @@
       }
     }
   }
+  .amazon-service-item-wrapper {
   .amazon-service-item {
     width: 100%;
     padding: 0px 15px 30px;
@@ -479,4 +480,5 @@
       }
     }
   }
+}
 }
