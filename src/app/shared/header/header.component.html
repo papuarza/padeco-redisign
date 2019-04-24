@@ -11,7 +11,11 @@
         <div class="header-options-wrapper" (mouseover)="showOptions()" [@menuAnimation]="optionsHover" (mouseout)="hideOptions()">
           <div class="header-options" *ngIf="optionsHover">
             <a [routerLink]="['/online']">{{ 'HEADER.servicesOptions.option1' | translate }}</a>
-            <a [routerLink]="['/offline']">{{ 'HEADER.servicesOptions.option2' | translate }}</a>
+            <a [routerLink]="['/amazon']" class="subsection">{{ 'HEADER.servicesOptions.option12' | translate }}</a>
+            <a [routerLink]="['/manomano']" class="subsection">{{ 'HEADER.servicesOptions.option13' | translate }}</a>
+            <a [routerLink]="['/offline']" style="margin-top: 15px;">{{ 'HEADER.servicesOptions.option2' | translate }}</a>
+            <a [routerLink]="['/ecuador']" class="subsection">{{ 'HEADER.servicesOptions.option21' | translate }}</a>
+            <a [routerLink]="['/costa-rica']" class="subsection">{{ 'HEADER.servicesOptions.option22' | translate }}</a>
           </div>
         </div>
       </a>

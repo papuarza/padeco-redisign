@@ -4,7 +4,11 @@
     "services": "Servicios",
     "servicesOptions": {
       "option1": "Canal Online",
-      "option2": "Canal Offline"
+      "option2": "Canal Offline",
+      "option12": "Amazon",
+      "option13": "Manomano",
+      "option21": "Ecuador",
+      "option22": "Costa Rica"
     },
     "projects": "Proyectos",
     "about": "Nosotros",
@@ -234,13 +238,13 @@
       },
       "item2": {
         "title": "Expertos locales",
-        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
-        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+        "description1": "Nos asociamos a expertos locales, que conocen el país.",
+        "description2": "Consiguiendo ahorro de recursos y tiempo en materias de trámites de exportación, legales y burocráticos."
       },
       "item3": {
         "title": "Red de contactos",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "Acceso a la red de contactos de nuestros socios locales, agilizando la búsqueda de potenciales clientes en los diferentes canales a los que se dirija el producto.",
+        "description2": "De la misma manera, encontramos la forma óptima de implantación de la empresa y producto en el mercado"
       },
       "item4": {
         "title": "Metodologías de trabajo",
@@ -249,13 +253,13 @@
       },
       "item5": {
         "title": "Estrategias personalizadas",
-        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
-        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+        "description1": "Diseñamos estrategias de expansión personalizadas a cada cliente y producto.",
+        "description2": "Forma de trabajo, creación de hojas de ruta para cada proyecto, customizando todos los aspectos para el éxito del producto."
       },
       "item6": {
         "title": "Penetración de mercado",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "El desarrollo del mercado es mucho más rápida y con menos riesgos.",
+        "description2": "Evitará los desplazamientos, la creación de estructura en el mercado a desarrollar y otros costes, permitiendo optimizar el coste de sus productos para hacerlos más competitivos."
       }
     }
   },
@@ -372,18 +376,18 @@
     "serviciosDescr": {
       "item1": {
         "title": "Consultoria",
-        "description1": "Informe de la situación actual de la cuenta y auditoría de productos.",
-        "description2": "Asesoramiento estratégico sobre Amazon Seller Central y Amazon Vendor Central.",
-        "description3": "Estudio de organización, recursos internos y necesidades operativas.",
-        "description4": "Planificación de catálogo.",
+        "description1": "Informe de la situación actual de la cuenta y auditoría de productos",
+        "description2": "Asesoramiento estratégico sobre Amazon Seller Central y Amazon Vendor Central",
+        "description3": "Estudio de organización, recursos internos y necesidades operativas",
+        "description4": "Planificación de catálogo",
         "servicios": {
           "title": "Servicios",
-          "item1": "Estudio de mercado y de oportunidad en Amazon.",
+          "item1": "Estudio de mercado y de oportunidad en Amazon",
           "item2": "Análisis de situación de la cuenta de Amazon",
-          "item3": "Estudio de objetivos a corto, medio y largo plazo.",
-          "item4": "Implantación del plan de marketing en Amazon al plan estratégico de la empresa.",
-          "item5": "Desglose de necesidades internas para un buen desempeño en las cuentas de Amazon Vendor Central, de Amazon Seller Central o con cuentas 1P-3P.",
-          "item6": "Asistencia continua ante consultas y asesoramiento para la toma de decisiones."
+          "item3": "Estudio de objetivos a corto, medio y largo plazo",
+          "item4": "Implantación del plan de marketing en Amazon al plan estratégico de la empresa",
+          "item5": "Desglose de necesidades internas para un buen desempeño en las cuentas de Amazon Vendor Central, de Amazon Seller Central o con cuentas 1P-3P",
+          "item6": "Asistencia continua ante consultas y asesoramiento para la toma de decisiones"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -393,16 +397,16 @@
       "item2": {
         "title": "Contenidos",
         "description1": "Auditoría de contenidos",
-        "description2": "Creación de familias de productos | Desarrollo de títulos, puntos clave y descripciones.",
+        "description2": "Creación de familias de productos | Desarrollo de títulos, puntos clave y descripciones",
         "description3": "Optimización de palabras clave | A nivel nacional e internacional",
         "description4": "Branding",
         "servicios": {
           "title": "Servicios",
-          "item1": "Estudio del portfolio de la marca. Lanzamiento de productos, actualización de listing e implementación de las mejoras necesarias.",
-          "item2": "Protección de fabricante.",
-          "item3": "Creación de familias de productos para una correcta estructura de variantes.",
-          "item4": "Análisis de SEO A9 | Incrementar el tráfico del catálogo dado de alta, incrementar la conversión de las fichas de producto en cada Marketplace en su idioma local.",
-          "item5": "Posicionamiento del producto en primeras páginas y obtención de etiquetas de “Más vendido”."
+          "item1": "Estudio del portfolio de la marca. Lanzamiento de productos, actualización de listing e implementación de las mejoras necesarias",
+          "item2": "Protección de fabricante",
+          "item3": "Creación de familias de productos para una correcta estructura de variantes",
+          "item4": "Análisis de SEO A9 | Incrementar el tráfico del catálogo dado de alta, incrementar la conversión de las fichas de producto en cada Marketplace en su idioma local",
+          "item5": "Posicionamiento del producto en primeras páginas y obtención de etiquetas de “Más vendido”"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -412,16 +416,16 @@
       "item3": {
         "title": "Marketing",
         "description1": "Auditoría fotográfica.",
-        "description2": "Potenciación de Marca | Contenido enriquecido(EBC o A+).",
+        "description2": "Potenciación de Marca | Contenido enriquecido(EBC o A+)",
         "description3": "Amazon Store",
-        "description4": "Análisis de la política de pricing e implantación de campañas promocionales.",
+        "description4": "Análisis de la política de pricing e implantación de campañas promocionales",
         "servicios": {
           "title": "Servicios",
-          "item1": "Análisis de imágenes e implantación de mejores prácticas enfocadas a aumentar la conversión.",
-          "item2": "Desarrollo del contenido extendido (EBC | A+) para incrementar la notoriedad de marca y fomentar el Up-Selling y Cross-Selling.",
-          "item3": "Estructuración y creación del Amazon Store.",
-          "item4": "Asesoramiento de Pricing tanto para Vendor Central como Seller Central. Estudio pormenorizado por mercado para obtener la mayor tasa de BuyBox posible.",
-          "item5": "Implantación de Ofertas Flash | Ofertas destacadas u Ofertas puntuales tanto en Seller Central como Vendor Central."
+          "item1": "Análisis de imágenes e implantación de mejores prácticas enfocadas a aumentar la conversión",
+          "item2": "Desarrollo del contenido extendido (EBC | A+) para incrementar la notoriedad de marca y fomentar el Up-Selling y Cross-Selling",
+          "item3": "Estructuración y creación del Amazon Store",
+          "item4": "Asesoramiento de Pricing tanto para Vendor Central como Seller Central. Estudio pormenorizado por mercado para obtener la mayor tasa de BuyBox posible",
+          "item5": "Implantación de Ofertas Flash | Ofertas destacadas u Ofertas puntuales tanto en Seller Central como Vendor Central"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -430,17 +434,17 @@
       },
       "item4": {
         "title": "Publicidad",
-        "description1": "Definición, estrategia e implementación de publicidad.",
-        "description2": "Publicidad orientada a potenciar el producto o marca.",
-        "description3": "Publicidad defensiva para evitar que terceros se posicionen en tus productos o marcas.",
-        "description4": "Orientación a ACOS o por presupuesto delimitado.",
+        "description1": "Definición, estrategia e implementación de publicidad",
+        "description2": "Publicidad orientada a potenciar el producto o marca",
+        "description3": "Publicidad defensiva para evitar que terceros se posicionen en tus productos o marcas",
+        "description4": "Orientación a ACOS o por presupuesto delimitado",
         "servicios": {
           "title": "Servicios",
-          "item1": "Definición de objetivos publicitarios y estrategias.",
-          "item2": "Amplio conocimiento de Amazon Advertising que nos permite optimizar todas tus campañas publicitarias a través de Amazon Ad Console o Amazon DSP.",
-          "item3": "Emplea Amazon Sponsored Products para atraer potenciales leads cuando estos están decidiendo su compra.",
-          "item4": "Haz uso de Amazon Brands para potenciar tu marca y darle la máxima visibilidad a tu Amazon Store (Necesario el Registro de Marca en Amazon Seller Central).",
-          "item5": "Atrae, potencia la visibilidad de tus productos y haz retargeting con Amazon Display Ads (exclusivo Vendor Central)."
+          "item1": "Definición de objetivos publicitarios y estrategias",
+          "item2": "Amplio conocimiento de Amazon Advertising que nos permite optimizar todas tus campañas publicitarias a través de Amazon Ad Console o Amazon DSP",
+          "item3": "Emplea Amazon Sponsored Products para atraer potenciales leads cuando estos están decidiendo su compra",
+          "item4": "Haz uso de Amazon Brands para potenciar tu marca y darle la máxima visibilidad a tu Amazon Store (Necesario el Registro de Marca en Amazon Seller Central)",
+          "item5": "Atrae, potencia la visibilidad de tus productos y haz retargeting con Amazon Display Ads (exclusivo Vendor Central)"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -449,17 +453,17 @@
       },
       "item5": {
         "title": "Analítica",
-        "description1": "Análisis de informes de empresa en Seller Central.",
-        "description2": "Análisis de ARA Basic o ARA Premium en Vendor Central.",
-        "description3": "Informes periódicos sobre KPIs.",
-        "description4": "Informes de conclusiones y asesoramiento en toma de decisiones.",
+        "description1": "Análisis de informes de empresa en Seller Central",
+        "description2": "Análisis de ARA Basic o ARA Premium en Vendor Central",
+        "description3": "Informes periódicos sobre KPIs",
+        "description4": "Informes de conclusiones y asesoramiento en toma de decisiones",
         "servicios": {
           "title": "Servicios",
-          "item1": "Análisis detallado de los informes de empresa en Amazon Seller Central.",
-          "item2": "Amplio conocimiento de los informes ARA Basic para potenciar la cuenta de Amazon Vendor.",
-          "item3": "Si tienes acceso a ARA Premium, te ayudamos a potenciar y maximizar la información que puedes obtener de esta herramienta.",
-          "item4": "Realizamos informes periódicos, en función de tus necesidades, para poder pivotar la estrategia y objetivos en caso de que fuese necesario.",
-          "item5": "Toma decisiones en base a la información que tienes disponible, asesorado por expertos."
+          "item1": "Análisis detallado de los informes de empresa en Amazon Seller Central",
+          "item2": "Amplio conocimiento de los informes ARA Basic para potenciar la cuenta de Amazon Vendor",
+          "item3": "Si tienes acceso a ARA Premium, te ayudamos a potenciar y maximizar la información que puedes obtener de esta herramienta",
+          "item4": "Realizamos informes periódicos, en función de tus necesidades, para poder pivotar la estrategia y objetivos en caso de que fuese necesario",
+          "item5": "Toma decisiones en base a la información que tienes disponible, asesorado por expertos"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -468,21 +472,21 @@
       },
       "item6": {
         "title": "Formación",
-        "description1": "Formación de gestión de cuentas Amazon Seller Central.",
-        "description2": "Formación de gestión de cuentas Amazon Vendor Central.",
-        "description3": "Formación sobre Amazon Advertising.",
-        "description4": "Formación operativa y logística sobre Amazon.",
+        "description1": "Formación de gestión de cuentas Amazon Seller Central",
+        "description2": "Formación de gestión de cuentas Amazon Vendor Central",
+        "description3": "Formación sobre Amazon Advertising",
+        "description4": "Formación operativa y logística sobre Amazon",
         "servicios": {
           "title": "Servicios",
-          "item1": "Formación detallada en función del tipo de plataforma en la que se pretenda desarrollar al personal de la empresa.",
-          "item2": "Formación para el correcto desarrollo de campañas publicitarias con unos ACOS óptimos.",
-          "item3": "Capacitación a distintos niveles organizacionales para poder extraer el máximo beneficio de la cuenta.",
-          "item4": "También damos capacitación en el uso de software de gestión de Amazon en aquellos casos en los que el cliente esté interesado en usarlos.",
-          "item5": "Damos la formación necesaria para poder llevar cualquier cuenta de Vendor Central o Seller Central. Desde cómo posicionar los productos en Amazon hasta cómo gestionar las penalizaciones e incidencias logísticas en Amazon Vendor Central."
+          "item1": "Formación detallada en función del tipo de plataforma en la que se pretenda desarrollar al personal de la empresa",
+          "item2": "Formación para el correcto desarrollo de campañas publicitarias con unos ACOS óptimos",
+          "item3": "Capacitación a distintos niveles organizacionales para poder extraer el máximo beneficio de la cuenta",
+          "item4": "También damos capacitación en el uso de software de gestión de Amazon en aquellos casos en los que el cliente esté interesado en usarlos",
+          "item5": "Damos la formación necesaria para poder llevar cualquier cuenta de Vendor Central o Seller Central. Desde cómo posicionar los productos en Amazon hasta cómo gestionar las penalizaciones e incidencias logísticas en Amazon Vendor Central"
         },
         "ventajas": {
           "title": "Ventajas",
-          "item1": "Si deseas controlar internamente cada una de las distintas palancas necesarias para el buen funcionamiento y desarrollo de tu cuenta en Amazon, ya sea esta de Vendor o de Seller Central, y tienes la sensación de que tu equipo carece de las capacidades necesarias para hacerlo, te ayudamos a formarles y profesionalizarles para potenciar la cuenta al máximo. Esta formación de Amazon puede llevarse a todos los niveles organizacionales, en los que desarrollamos un plan formativo específico a cada perfil del equipo. De esta forma, cada uno podrá gestionar sus tareas de la mejor manera posible o el equipo directivo podrá tomar las mejores decisiones al conocer las características de su cuenta y sus posibilidades o impedimentos."
+          "item1": "Si deseas controlar internamente cada una de las distintas palancas necesarias para el buen funcionamiento y desarrollo de tu cuenta en Amazon, ya sea esta de Vendor o de Seller Central, y tienes la sensación de que tu equipo carece de las capacidades necesarias para hacerlo, te ayudamos a formarles y profesionalizarles para potenciar la cuenta al máximo. Esta formación de Amazon puede llevarse a todos los niveles organizacionales, en los que desarrollamos un plan formativo específico a cada perfil del equipo. De esta forma, cada uno podrá gestionar sus tareas de la mejor manera posible o el equipo directivo podrá tomar las mejores decisiones al conocer las características de su cuenta y sus posibilidades o impedimentos"
         }
       }
     }
@@ -491,37 +495,37 @@
     "header": {
       "title": "Somos expertos en canales de venta",
       "description1": "Somos una consultora internacional dedicada tanto al canal digital como offline, con proyectos de pequeñas, medianas y grandes empresas. ",
-      "description2": "En canales digitales centramos nuestros esfuerzos en la gestión de Marketplaces (Amazon y ManoMano), con profesionales que cuentan con años de experiencia en el sector.",
-      "description3": "En el canal offline, trabajamos en la apertura de nuevos mercados a nivel internacional, con expertos locales en cada uno de éstos mercados, y con el know-how de profesionales expertos en el sector."
+      "description2": "En canales digitales centramos nuestros esfuerzos en la gestión de Marketplaces, con profesionales que cuentan con años de experiencia en el sector",
+      "description3": "En el canal offline, trabajamos en la apertura de nuevos mercados a nivel internacional, con expertos locales en cada uno de éstos mercados, y con el know-how de profesionales expertos en el sector"
     },
     "secondRow": {
       "title": "¿Por qué elegirnos?",
-      "description1": "Padeco Global  cuenta con una amplia experiencia en el sector, trabajando con grandes empresas multinacionales en cada uno de los canales de ventas.",
-      "description2": "Entendemos que cada proyecto es totalmente diferente a otro, por lo que nuestro equipo multidisciplinario está preparado para ajustarse a cada uno de ellos.",
-      "description3": "A partir de las necesidades de cada proyecto, planteamos la estrategia, la ejecutamos según un plan que se ajusten a los objetivos, y estamos constantemente retroalimentando dicho plan para ajustarlo al máximo y obtener los mejores resultados.",
+      "description1": "Padeco Global  cuenta con una amplia experiencia en el sector, trabajando con grandes empresas multinacionales en cada uno de los canales de ventas",
+      "description2": "Entendemos que cada proyecto es totalmente diferente a otro, por lo que nuestro equipo multidisciplinario está preparado para ajustarse a cada uno de ellos",
+      "description3": "A partir de las necesidades de cada proyecto, planteamos la estrategia, la ejecutamos según un plan que se ajusten a los objetivos, y estamos constantemente retroalimentando dicho plan para ajustarlo al máximo y obtener los mejores resultados",
       "item1": {
         "title": "Orientados a resultados",
-        "description": "Las empresas buscan resultados, y acompañamos ese sentimiento planteando proyectos enfocados 100% a resultados."
+        "description": "Las empresas buscan resultados, y acompañamos ese sentimiento planteando proyectos enfocados 100% a resultados"
       },
       "item2": {
         "title": "Equipo y Tecnología",
-        "description": "Nuestro equipo está especializado en cada uno de los canales, y en constante ciclos de formación, de forma a ajustarse a los últimos avances tecnológicos."
+        "description": "Nuestro equipo está especializado en cada uno de los canales, y en constante ciclos de formación, de forma a ajustarse a los últimos avances tecnológicos"
       },
       "item3": {
         "title": "Metodología de Trabajo",
-        "description": "Nuestro día a día está marcado por metodologías de trabajo modernas, en las cuáles buscamos alcanzar la mayor productividad, además de probar constantemente nuevos formas de trabajo que nos ayuden a mejorar."
+        "description": "Nuestro día a día está marcado por metodologías de trabajo modernas, en las cuáles buscamos alcanzar la mayor productividad, además de probar constantemente nuevos formas de trabajo que nos ayuden a mejorar"
       },
       "item4": {
         "title": "Flexibilidad de Procesos",
-        "description": "Ajustamos nuestros procesos a lo que los clientes buscan. Sabemos que cada equipo tiene sus metodologías de trabajo, y la flexibilidad de nuestro equipo hace que nos adaptemos a cada una de ellas."
+        "description": "Ajustamos nuestros procesos a lo que los clientes buscan. Sabemos que cada equipo tiene sus metodologías de trabajo, y la flexibilidad de nuestro equipo hace que nos adaptemos a cada una de ellas"
       }
     }
   },
   "MANOMANO": {
     "header": {
       "title": "ManoMano", 
-      "description1": "Esta plataforma especializada en bricolaje y jardinería con más de 2,5 millones de clientes activos que busca convertirse en el líder europeo del bricolaje y la jardinería online. Además, cuenta con la oportunidad de acceder a los mercados de Francia, Alemania, Italia, Reino Unido y Bélgica.",
-      "description2": "En Padeco Global, analizamos la madurez de tu empresa en este canal para elaborar una estrategia óptima. Ayudamos al cliente a optimizar su cuenta, gestionamos sus listing para maximizar la visibilidad de los mismos y analizamos los resultados para tomar decisiones."
+      "description1": "Esta plataforma especializada en bricolaje y jardinería con más de 2,5 millones de clientes activos que busca convertirse en el líder europeo del bricolaje y la jardinería online. Además, cuenta con la oportunidad de acceder a los mercados de Francia, Alemania, Italia, Reino Unido y Bélgica",
+      "description2": "En Padeco Global, analizamos la madurez de tu empresa en este canal para elaborar una estrategia óptima. Ayudamos al cliente a optimizar su cuenta, gestionamos sus listing para maximizar la visibilidad de los mismos y analizamos los resultados para tomar decisiones"
     },
     "servicios": {
       "title": "Servicios en ManoMano",
@@ -567,18 +571,18 @@
     "serviciosDescr": {
       "item1": {
         "title": "Consultoria",
-        "description1": "Informe de la situación actual de la cuenta y auditoría de productos.",
-        "description2": "Asesoramiento estratégico sobre Manomano.",
-        "description3": "Estudio de organización, recursos internos y necesidades operativas.",
-        "description4": "Planificación de catálogo.",
+        "description1": "Informe de la situación actual de la cuenta y auditoría de productos",
+        "description2": "Asesoramiento estratégico sobre Manomano",
+        "description3": "Estudio de organización, recursos internos y necesidades operativas",
+        "description4": "Planificación de catálogo",
         "servicios": {
           "title": "Servicios",
-          "item1": "Estudio de mercado y de oportunidad en Manomano.",
-          "item2": "Análisis de situación de la cuenta de Manomano.",
-          "item3": "Estudio de objetivos a corto, medio y largo plazo.",
-          "item4": "Implantación del plan de marketing de Manomano al plan estratégico de la empresa.",
-          "item5": "Desglose de necesidades internas para un buen desempeño de la plataforma.",
-          "item6": "Asistencia continua ante consultas y asesoramiento para la toma de decisiones."
+          "item1": "Estudio de mercado y de oportunidad en Manomano",
+          "item2": "Análisis de situación de la cuenta de Manomano",
+          "item3": "Estudio de objetivos a corto, medio y largo plazo",
+          "item4": "Implantación del plan de marketing de Manomano al plan estratégico de la empresa",
+          "item5": "Desglose de necesidades internas para un buen desempeño de la plataforma",
+          "item6": "Asistencia continua ante consultas y asesoramiento para la toma de decisiones"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -587,17 +591,17 @@
       },
       "item2": {
         "title": "Contenidos & Marketing",
-        "description1": "Auditoría de contenidos | Auditoría fotográfica.",
-        "description2": "Desarrollo de títulos, puntos clave y descripciones.",
-        "description3": "Optimización de palabras clave | A nivel nacional e internacional.",
-        "description4": "Análisis de la política de pricing e implantación de campañas promocionales.",
+        "description1": "Auditoría de contenidos | Auditoría fotográfica",
+        "description2": "Desarrollo de títulos, puntos clave y descripciones",
+        "description3": "Optimización de palabras clave | A nivel nacional e internacional",
+        "description4": "Análisis de la política de pricing e implantación de campañas promocionales",
         "servicios": {
           "title": "Servicios",
-          "item1": "Estudio del catálogo de la marca. Lanzamiento de productos, actualización de listing e implementación de las mejoras necesarias.",
-          "item2": "Análisis de imágenes e implantación de mejores prácticas enfocadas a aumentar la conversión.",
-          "item3": "Protección de fabricante.",
-          "item4": "Análisis de palabras clave | Incrementar el tráfico del catálogo dado de alta e incrementar la conversión de las fichas de producto.",
-          "item5": "Asesoramiento de Pricing. Estudio pormenorizado por mercado para obtener la mayor tasa de PayBox posible."
+          "item1": "Estudio del catálogo de la marca. Lanzamiento de productos, actualización de listing e implementación de las mejoras necesarias",
+          "item2": "Análisis de imágenes e implantación de mejores prácticas enfocadas a aumentar la conversión",
+          "item3": "Protección de fabricante",
+          "item4": "Análisis de palabras clave | Incrementar el tráfico del catálogo dado de alta e incrementar la conversión de las fichas de producto",
+          "item5": "Asesoramiento de Pricing. Estudio pormenorizado por mercado para obtener la mayor tasa de PayBox posible"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -606,15 +610,15 @@
       },
       "item3": {
         "title": "Analitica",
-        "description1": "Análisis de informe de ventas.",
-        "description2": "Mantenimiento de incidencias al minimo.",
-        "description3": "Informes periódicos sobre KPIs.",
-        "description4": "Informes de conclusiones y asesoramiento en toma de decisiones.",
+        "description1": "Análisis de informe de ventas",
+        "description2": "Mantenimiento de incidencias al minimo",
+        "description3": "Informes periódicos sobre KPIs",
+        "description4": "Informes de conclusiones y asesoramiento en toma de decisiones",
         "servicios": {
           "title": "Servicios",
-          "item1": "Análisis detallado de los informes de ventas.",
-          "item2": "Realizamos informes periódicos, en función de tus necesidades, para poder pivotar la estrategia y objetivos en caso de que fuese necesario.",
-          "item3": "Toma decisiones en base a la información que tienes disponible, asesorado por expertos."
+          "item1": "Análisis detallado de los informes de ventas",
+          "item2": "Realizamos informes periódicos, en función de tus necesidades, para poder pivotar la estrategia y objetivos en caso de que fuese necesario",
+          "item3": "Toma decisiones en base a la información que tienes disponible, asesorado por expertos"
         },
         "ventajas": {
           "title": "Ventajas",
@@ -623,13 +627,13 @@
       },
       "item4": {
         "title": "Formación de Equipos Especializados",
-        "description1": "Formación de gestión de cuenta.",
-        "description2": "Formación operativa y logística.",
+        "description1": "Formación de gestión de cuenta",
+        "description2": "Formación operativa y logística",
         "servicios": {
           "title": "Servicios",
-          "item1": "Formación detallada de la plataforma para capacitar al personal de la empresa.",
-          "item2": "Capacitación a distintos niveles organizacionales para poder extraer el máximo beneficio de la cuenta.",
-          "item3": "Formación sobre cómo posicionar los productos en Manomano hasta cómo gestionar las penalizaciones e incidencias logísticas o cláusulas hormigon."
+          "item1": "Formación detallada de la plataforma para capacitar al personal de la empresa",
+          "item2": "Capacitación a distintos niveles organizacionales para poder extraer el máximo beneficio de la cuenta",
+          "item3": "Formación sobre cómo posicionar los productos en Manomano hasta cómo gestionar las penalizaciones e incidencias logísticas o cláusulas hormigon"
         },
         "ventajas": {
           "title": "Ventajas",
