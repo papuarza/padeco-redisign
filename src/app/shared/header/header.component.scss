@@ -124,6 +124,23 @@ header {
           right: 15px;
           width: 35px;
         }
+        .header-options {
+          display: flex;
+          flex-direction: column;
+          a {
+            margin-bottom: 0px;
+            font-weight: 700;
+            font-size: 16px;
+            margin-left: 10px;
+            margin-top: 10px;
+          }
+          a.subsection {
+            font-weight: 300;
+            margin-left: 10px;
+            margin-bottom: 0;
+            margin-top: 5px;
+          }
+        }
         .social-networks {
           display: flex;
           width: 100%;

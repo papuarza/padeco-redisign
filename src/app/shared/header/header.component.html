@@ -27,14 +27,19 @@
       <div class="nav-content-wrapper">
       <img src="assets/images/close.svg" alt="" (click)="hideMenuMobile()">
         <a [routerLink]="['/']" routerLinkActive="router-link-active" (click)="hideMenuMobile()">{{ 'HEADER.home' | translate }}</a>
-        <a [routerLink]="['/servicios']" class="double-level" (click)="hideMenuMobile()">
-          {{ 'HEADER.services' | translate }}
-          <div class="header-options" *ngIf="optionsHover">
-            <a>Canal Digital</a>
-            <a>Canal Tradicional</a>
-          </div>
-        </a>
-        <!-- <a [routerLink]="['/proyectos']" (click)="hideMenuMobile()">{{ 'HEADER.projects' | translate }}</a> -->
+        <a class="double-level">
+            {{ 'HEADER.services' | translate }}
+            <div class="header-options-wrapper">
+              <div class="header-options">
+                <a [routerLink]="['/online']">{{ 'HEADER.servicesOptions.option1' | translate }}</a>
+                <a [routerLink]="['/amazon']" class="subsection">{{ 'HEADER.servicesOptions.option12' | translate }}</a>
+                <a [routerLink]="['/manomano']" class="subsection">{{ 'HEADER.servicesOptions.option13' | translate }}</a>
+                <a [routerLink]="['/offline']" style="margin-top: 15px;">{{ 'HEADER.servicesOptions.option2' | translate }}</a>
+                <a [routerLink]="['/ecuador']" class="subsection">{{ 'HEADER.servicesOptions.option21' | translate }}</a>
+                <a [routerLink]="['/costa-rica']" class="subsection">{{ 'HEADER.servicesOptions.option22' | translate }}</a>
+              </div>
+            </div>
+          </a>
         <a [routerLink]="['/sobre-nosotros']" (click)="hideMenuMobile()">{{ 'HEADER.about' | translate }}</a>
         <a [routerLink]="['/contacto']" (click)="hideMenuMobile()">{{ 'HEADER.contact' | translate }}</a>
         <div class="social-networks">
