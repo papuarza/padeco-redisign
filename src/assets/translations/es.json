@@ -19,10 +19,8 @@
       "title": "Inicio",
       "link1": "Beneficios",
       "link2": "Servicios",
-      "link3": "Procesos",
-      "link4": "Proyectos",
-      "link5": "Contacto",
-      "link6": "Oficinas"
+      "link3": "Contacto",
+      "link4": "Oficinas"
     },
     "secondColumn": {
       "title": "Online",
@@ -41,8 +39,7 @@
     "fourthColumn": {
       "title": "Sobre Padeco",
       "link1": "¿Por qué nosotros?",
-      "link2": "Proyectos",
-      "link3": "Oficinas"
+      "link2": "Oficinas"
     },
     "fifthColumn": {
       "title": "Nosotros",

@@ -27,13 +27,13 @@
       <div class="nav-content-wrapper">
       <img src="assets/images/close.svg" alt="" (click)="hideMenuMobile()">
         <a [routerLink]="['/']" routerLinkActive="router-link-active" (click)="hideMenuMobile()">{{ 'HEADER.home' | translate }}</a>
-        <a class="double-level" [routerLink]="['/servicios']">
+        <a class="double-level">
             {{ 'HEADER.services' | translate }}
             <div class="header-options-wrapper">
               <div class="header-options">
                 <a [routerLink]="['/online']" (click)="hideMenuMobile()">{{ 'HEADER.servicesOptions.option1' | translate }}</a>
                 <a [routerLink]="['/amazon']" class="subsection" (click)="hideMenuMobile()">{{ 'HEADER.servicesOptions.option12' | translate }}</a>
-                <a [routerLink]="['/manomano']" class="subsection">{{ 'HEADER.servicesOptions.option13' | translate }}</a>
+                <a [routerLink]="['/manomano']" class="subsection" (click)="hideMenuMobile()">{{ 'HEADER.servicesOptions.option13' | translate }}</a>
                 <a [routerLink]="['/offline']" style="margin-top: 15px;" (click)="hideMenuMobile()">{{ 'HEADER.servicesOptions.option2' | translate }}</a>
                 <a [routerLink]="['/ecuador']" class="subsection" (click)="hideMenuMobile()">{{ 'HEADER.servicesOptions.option21' | translate }}</a>
                 <a [routerLink]="['/costa-rica']" class="subsection" (click)="hideMenuMobile()">{{ 'HEADER.servicesOptions.option22' | translate }}</a>
