@@ -293,13 +293,13 @@
       },
       "item2": {
         "title": "Expertos locales",
-        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
-        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+        "description1": "Nos asociamos a expertos locales, que conocen el país.",
+        "description2": "Consiguiendo ahorro de recursos y tiempo en materias de trámites de exportación, legales y burocráticos."
       },
       "item3": {
         "title": "Red de contactos",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "Acceso a la red de contactos de nuestros socios locales, agilizando la búsqueda de potenciales clientes en los diferentes canales a los que se dirija el producto.",
+        "description2": "De la misma manera, encontramos la forma óptima de implantación de la empresa y producto en el mercado"
       },
       "item4": {
         "title": "Metodologías de trabajo",
@@ -308,13 +308,13 @@
       },
       "item5": {
         "title": "Estrategias personalizadas",
-        "description1": "Phasellus aliquam libero et ex suscipit placerat. Nulla facilisi. Nullam eget tortor magna. Suspendisse magna nunc, malesuada at arcu sed, tincidunt tincidunt est. Aenean eget ligula elit. Ut semper, magna tincidunt lobortis aliquam, dui ligula consequat lacus, sit amet lobortis odio tellus eu nunc.",
-        "description2": "Phasellus et quam sit amet lectus ullamcorper condimentum. Nam vehicula arcu sed fringilla tincidunt. Aenean finibus ipsum et erat ornare tincidunt."
+        "description1": "Diseñamos estrategias de expansión personalizadas a cada cliente y producto.",
+        "description2": "Forma de trabajo, creación de hojas de ruta para cada proyecto, customizando todos los aspectos para el éxito del producto."
       },
       "item6": {
         "title": "Penetración de mercado",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "El desarrollo del mercado es mucho más rápida y con menos riesgos.",
+        "description2": "Evitará los desplazamientos, la creación de estructura en el mercado a desarrollar y otros costes, permitiendo optimizar el coste de sus productos para hacerlos más competitivos."
       }
     }
   },
