@@ -233,8 +233,8 @@
       "description": "Somos su fuerza de venta especializada en mercados internacionales donde usted no llega. Permitimos adquirir una ventaja competitiva en el desarrollo de nuevos mercados.",
       "item1": {
         "title": "Enfoque a éxito",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "Nuestra filosofía de trabajo se basa en buscar el mejor resultado para el producto.",
+        "description2": "Por eso compartimos riesgos y planteamos retribuciones variables sujetas al éxito de los productos en el mercado."
       },
       "item2": {
         "title": "Expertos locales",
@@ -248,13 +248,13 @@
       },
       "item4": {
         "title": "Metodologías de trabajo",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "Mantenemos metodologías de trabajo en constante evolución, buscando adaptarnos al cliente y al mercado.",
+        "description2": "De esta forma logramos mayor eficiencia. Forma de trabajo, creación de hojas de ruta para cada proyecto, customizando todos los aspectos para el éxito del producto."
       },
       "item5": {
         "title": "Estrategias personalizadas",
         "description1": "Diseñamos estrategias de expansión personalizadas a cada cliente y producto.",
-        "description2": "Forma de trabajo, creación de hojas de ruta para cada proyecto, customizando todos los aspectos para el éxito del producto."
+        "description2": "Podemos ofrecerles estudios de mercados personalizados, control de la competencia y mapeo de precios."
       },
       "item6": {
         "title": "Penetración de mercado",
@@ -288,8 +288,8 @@
       "description": "Somos su fuerza de venta especializada en mercados internacionales donde usted no llega. Permitimos adquirir una ventaja competitiva en el desarrollo de nuevos mercados.",
       "item1": {
         "title": "Enfoque a éxito",
-        "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis tortor a nisl euismod luctus. Pellentesque tortor mauris, facilisis non luctus non, hendrerit eu nulla. Sed sit amet diam urna.",
-        "description2": "Nam nec magna bibendum, porta risus tempus, tempus diam. In efficitur pulvinar nisi. Praesent sit amet dolor nec tellus faucibus bibendum."
+        "description1": "Nuestra filosofía de trabajo se basa en buscar el mejor resultado para el producto.",
+        "description2": "Por eso compartimos riesgos y planteamos retribuciones variables sujetas al éxito de los productos en el mercado."
       },
       "item2": {
         "title": "Expertos locales",
@@ -495,7 +495,7 @@
     "header": {
       "title": "Somos expertos en canales de venta",
       "description1": "Somos una consultora internacional dedicada tanto al canal digital como offline, con proyectos de pequeñas, medianas y grandes empresas. ",
-      "description2": "En canales digitales centramos nuestros esfuerzos en la gestión de Marketplaces, con profesionales que cuentan con años de experiencia en el sector",
+      "description2": "En canales digitales centramos nuestros esfuerzos en la gestión de marketplaces, con profesionales que cuentan con años de experiencia en el sector",
       "description3": "En el canal offline, trabajamos en la apertura de nuevos mercados a nivel internacional, con expertos locales en cada uno de éstos mercados, y con el know-how de profesionales expertos en el sector"
     },
     "secondRow": {
