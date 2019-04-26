@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "commit": "git add . && git commit -m 'new commit' && git push origin master",
-    "deploy": "ng build --prod --output-path docs --base-href './' && cp docs/index.html docs/404.html && git add . && git commit -m 'new release' && git push origin master"
+    "deploy": "ng build --prod --output-path docs --base-href './' && cp docs/index.html docs/404.html && cp CNAME docs && git add . && git commit -m 'new release' && git push origin master"
   },
   "private": true,
   "dependencies": {
