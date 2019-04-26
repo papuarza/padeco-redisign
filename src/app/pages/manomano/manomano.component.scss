@@ -166,6 +166,9 @@
     }
   }
 }
+.amazon-service-item-wrapper {
+  width: 100%;
+  overflow-x: hidden;
 .amazon-service-item {
   width: 940px;
   max-width: 940px;
@@ -260,7 +263,7 @@
     }
   }
 }
-
+}
 @media only screen and (max-width: 600px) { 
   .amazon-wrapper {
     background-size: 83%;
