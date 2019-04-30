@@ -32,7 +32,7 @@ export class HeaderComponent implements OnInit {
     this.optionsHover = 'showOptions';
   }
   hideOptions() {
-    this.optionsHover = 'hideOptions';
+    this.optionsHover = 'hideOptions'
   }
   showMenuMobile() {
     this.showMobile = 'show';
