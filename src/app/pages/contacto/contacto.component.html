@@ -8,31 +8,31 @@
   <div class="form-content">
     <form>
       <div>
-        <input type="text">
+        <input type="text" name="nombre"[(ngModel)]="nombre" required>
         <label for="">{{ 'CONTACTO.input1' | translate }}</label>
       </div>
       <div>
-        <input type="text">
+        <input type="email" name="email"[(ngModel)]="email" required>
         <label for="">{{ 'CONTACTO.input2' | translate }}</label>
       </div>
       <div>
-        <input type="text">
+        <input type="text" name="telefono"[(ngModel)]="telefono">
         <label for="">{{ 'CONTACTO.input3' | translate }}</label>
       </div>
       <div>
-        <input type="text">
+        <input type="text" name="web"[(ngModel)]="web">
         <label for="">{{ 'CONTACTO.input5' | translate }}</label>
       </div>
       <div>
           <select name="" id="" name="facturacionTotal" [(ngModel)]="facturacionTotal">
-            <option value="">{{ 'CONTACTO.placeholder' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option1' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option2' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option3' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option4' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option5' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option6' | translate }}</option>
-            <option value="">{{ 'CONTACTO.input12.option7' | translate }}</option>
+            <option value="0">{{ 'CONTACTO.placeholder' | translate }}</option>
+            <option value="1">{{ 'CONTACTO.input12.option1' | translate }}</option>
+            <option value="2">{{ 'CONTACTO.input12.option2' | translate }}</option>
+            <option value="3">{{ 'CONTACTO.input12.option3' | translate }}</option>
+            <option value="4">{{ 'CONTACTO.input12.option4' | translate }}</option>
+            <option value="5">{{ 'CONTACTO.input12.option5' | translate }}</option>
+            <option value="6">{{ 'CONTACTO.input12.option6' | translate }}</option>
+            <option value="7">{{ 'CONTACTO.input12.option7' | translate }}</option>
           </select>
           <label for="">{{ 'CONTACTO.input12.title' | translate }}</label>
         </div>
@@ -55,52 +55,51 @@
           <label for="">{{ 'CONTACTO.input7.title' | translate }}</label>
         </div>
         <div *ngIf="mostrarOnline && mostrarAmazon">
-            <select name="" id="">
-              <option value="">{{ 'CONTACTO.placeholder' | translate }}</option>
-              <option value="">{{ 'CONTACTO.input8.option1' | translate }}</option>
-              <option value="">{{ 'CONTACTO.input8.option2' | translate }}</option>
+            <select id="" name="actualmenteAmazon" [(ngModel)]="actualmenteAmazon">
+              <option value="0">{{ 'CONTACTO.placeholder' | translate }}</option>
+              <option value="1">{{ 'CONTACTO.input8.option1' | translate }}</option>
+              <option value="2">{{ 'CONTACTO.input8.option2' | translate }}</option>
             </select>
             <label for="">{{ 'CONTACTO.input8.title' | translate }}</label>
           </div>
           <div *ngIf="mostrarOnline && mostrarAmazon">
-              <select name="" id="">
-                <option value="">{{ 'CONTACTO.placeholder' | translate }}</option>
-                <option value="">{{ 'CONTACTO.input9.option1' | translate }}</option>
-                <option value="">{{ 'CONTACTO.input9.option2' | translate }}</option>
-                <option value="">{{ 'CONTACTO.input9.option3' | translate }}</option>
+              <select id="" name="plataformaAmazon" [(ngModel)]="plataformaAmazon">
+                <option value="0">{{ 'CONTACTO.placeholder' | translate }}</option>
+                <option value="1">{{ 'CONTACTO.input9.option1' | translate }}</option>
+                <option value="2">{{ 'CONTACTO.input9.option2' | translate }}</option>
+                <option value="3">{{ 'CONTACTO.input9.option3' | translate }}</option>
               </select>
               <label for="">{{ 'CONTACTO.input9.title' | translate }}</label>
             </div>
             <div *ngIf="mostrarOnline && mostrarAmazon">
-                <select name="" id="">
-                  <option value="">{{ 'CONTACTO.placeholder' | translate }}</option>
-                  <option value="">{{ 'CONTACTO.input10.option1' | translate }}</option>
-                  <option value="">{{ 'CONTACTO.input10.option2' | translate }}</option>
-                  <option value="">{{ 'CONTACTO.input10.option3' | translate }}</option>
+                <select id="" name="paisesAmazon" [(ngModel)]="paisesAmazon">
+                  <option value="0">{{ 'CONTACTO.placeholder' | translate }}</option>
+                  <option value="1">{{ 'CONTACTO.input10.option1' | translate }}</option>
+                  <option value="2">{{ 'CONTACTO.input10.option2' | translate }}</option>
+                  <option value="3">{{ 'CONTACTO.input10.option3' | translate }}</option>
                 </select>
                 <label for="">{{ 'CONTACTO.input10.title' | translate }}</label>
               </div>
               <div *ngIf="mostrarOnline && mostrarAmazon">
-                  <select name="" id="">
-                    <option value="">{{ 'CONTACTO.placeholder' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option1' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option2' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option3' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option4' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option5' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option6' | translate }}</option>
-                    <option value="">{{ 'CONTACTO.input13.option7' | translate }}</option>
+                  <select id="" name="facturacionAmazon" [(ngModel)]="facturacionAmazon">
+                    <option value="0">{{ 'CONTACTO.placeholder' | translate }}</option>
+                    <option value="1">{{ 'CONTACTO.input13.option1' | translate }}</option>
+                    <option value="2">{{ 'CONTACTO.input13.option2' | translate }}</option>
+                    <option value="3">{{ 'CONTACTO.input13.option3' | translate }}</option>
+                    <option value="4">{{ 'CONTACTO.input13.option4' | translate }}</option>
+                    <option value="5">{{ 'CONTACTO.input13.option5' | translate }}</option>
+                    <option value="6">{{ 'CONTACTO.input13.option6' | translate }}</option>
+                    <option value="7">{{ 'CONTACTO.input13.option7' | translate }}</option>
                   </select>
                   <label for="">{{ 'CONTACTO.input13.title' | translate }}</label>
                 </div>
         
       <div>
-        <textarea name="" id="" cols="30" rows="10"></textarea>
+        <textarea name="" id="" cols="30" rows="10" name="mensaje" [(ngModel)]="mensaje"></textarea>
         <label for="">{{ 'CONTACTO.input6' | translate }}</label>
       </div>
-      <span><input type="checkbox" name=""
-          id="">{{ 'CONTACTO.message' | translate }}<a>{{ 'CONTACTO.messageLink' | translate }}</a></span>
-      <button>{{ 'CONTACTO.button' | translate }}</button>
+      <span><input type="checkbox" name="politica" [(ngModel)]="politica" id="">{{ 'CONTACTO.message' | translate }}<a>{{ 'CONTACTO.messageLink' | translate }}</a></span>
+      <button (click)="sendForm()" [ngClass]="{'active': politica}">{{ 'CONTACTO.button' | translate }}</button>
     </form>
     <div class="image-wrapper">
       <img src="assets/images/contact-main-image.png" alt="">

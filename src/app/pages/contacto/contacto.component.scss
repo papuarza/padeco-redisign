@@ -91,6 +91,12 @@
         font-weight: 300;
         padding: 12px 42px;
         margin-top: 20px;
+        pointer-events: none;
+        opacity: 0.3;
+      }
+      button.active {
+        opacity: 1;
+        pointer-events: all;
       }
     }
     .image-wrapper {
